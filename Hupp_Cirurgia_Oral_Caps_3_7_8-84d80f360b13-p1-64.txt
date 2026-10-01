@@ -1,0 +1,2565 @@
+3
+
+JAMES R. HUPP
+O
+        s    tecidos   humanos       têm     características   geneticamente
+        predeterminadas que estipulam respostas normais a lesões. Em razão
+        de as respostas à lesão serem previsíveis, os princípios da cirurgia
+evoluíram para ajudar a otimizar o ambiente de cicatrização de feridas,
+guiados por pesquisas básicas e clínicas. Este capítulo apresenta os conceitos
+baseados em evidências da prática cirúrgica que foram considerados bem-
+sucedidos não só para o procedimento bucal, mas também para aqueles em
+todos os outros locais do corpo.
+As decisões importantes concernentes ao procedimento cirúrgico devem ser
+tomadas bem antes do início da administração da anestesia. A resolução de
+se fazer uma cirurgia deve provir do exame cuidadoso do paciente.
+Primeiramente, o cirurgião-dentista identifica vários sinais e sintomas, além
+de informação histórica relevante; depois, usando os dados diagnósticos
+disponíveis do paciente e raciocínio lógico com base em experiência clínica,
+estabelece a relação entre os problemas específicos para os quais a
+intervenção pode ser indicada.
+    A etapa inicial na avaliação pré-cirúrgica é a coleta de dados pertinentes
+e precisos. Realiza-se essa etapa por meio de entrevistas com o paciente e
+exames físicos, laboratoriais e de imagem. Isso pode incluir o
+encaminhamento para consultas com outros profissionais da saúde.
+Consultas com o paciente e exames físicos devem ser realizados sem pressa
+e de maneira cuidadosa. O profissional não deve estar disposto a aceitar
+dados incompletos, tais como radiografia de baixa qualidade, especialmente
+quando for provável que informações adicionais possam alterar decisões
+relacionadas com a cirurgia.
+    Para uma análise apropriada, os dados diagnósticos devem ser
+organizados em um formulário que possibilite testar hipóteses. Ou seja, o
+cirurgião-dentista deve estar apto a considerar uma lista de possíveis doenças
+e eliminar aquelas incompatíveis com os dados do paciente, a frequência de
+doenças e a ciência baseada em evidências. Usando tal método, junto com o
+conhecimento de doenças prováveis, o profissional geralmente está apto a
+tomar a decisão se a cirurgia é indicada e qual procedimento deve ser
+executado.
+    Os profissionais da saúde que estão na assistência também devem ser
+observadores atentos. Sempre que um procedimento for realizado, eles
+devem refletir sobre todos os aspectos de seu resultado para desenvolver
+conhecimentos cirúrgicos e melhorar os resultados futuros. Esse
+procedimento também deve ser seguido toda vez que um profissional da
+saúde estiver aprendendo sobre uma nova técnica. Além disso, o cirurgião-
+dentista deve praticar a Odontologia baseada em evidências, por meio de
+avaliação de supostos resultados de qualquer técnica nova, pesando o mérito
+científico de estudos usados para investigá-la. Frequentemente, os métodos
+científicos são desacreditados pela introdução não reconhecida do efeito
+placebo, pelo viés de observação, pela variabilidade do paciente ou pelo uso
+de grupo controle inadequado.
+Existem pequenas diferenças entre as necessidades básicas requeridas para
+cirurgia bucal e aquelas requeridas para a realização apropriada de outras
+especialidades da Odontologia. Os dois requisitos principais são: (1)
+visibilidade adequada; e (2) assessoramento.
+     Embora a visibilidade pareça ser muito óbvia para mencionar como
+requisito para a realização da cirurgia bucal, os cirurgiões-dentistas
+frequentemente subestimam sua importância, especialmente quando o
+inesperado ocorre. Uma visibilidade adequada depende dos três fatores a
+seguir: (1) acesso adequado; (2) iluminação adequada; e (3) campo cirúrgico
+livre de excesso de sangue e outros fluidos e debris.
+     O acesso adequado requer, além da capacidade do paciente de abrir bem
+a boca, uma exposição cirúrgica suficientemente ampla. A retração dos
+tecidos a distância do campo operatório proporciona bem o acesso
+necessário. (A retração apropriada também protege os tecidos afastados de
+acidentalmente sofrer danos, como por instrumentos afiados.) Obtém-se
+melhor acesso pela criação de retalhos cirúrgicos, discutidos posteriormente
+neste capítulo.
+     A iluminação adequada é outra necessidade evidente na cirurgia. No
+entanto, os cirurgiões-dentistas frequentemente esquecem que muitos
+procedimentos colocam eles mesmos ou o assistente em posições que
+bloqueiam as fontes de luz do equipo odontológico. Para corrigir esse
+problema, a fonte de luz deve ser reposicionada continuamente. O cirurgião-
+dentista ou o assistente devem evitar obstruí-la. A disponibilidade de mais de
+um refletor de luz ou o uso de um foco cirúrgico de cabeça melhoram muito
+a iluminação do sítio cirúrgico.
+     Um campo cirúrgico livre de fluidos e debris também é necessário para
+uma visibilidade adequada. Um aspirador cirúrgico de alta potência com
+uma ponta de sucção relativamente pequena pode rapidamente remover o
+sangue e outros fluidos do campo.
+    Como em outras especialidades da Odontologia, um assistente focado e
+apropriadamente treinado oferece inestimável ajuda durante a cirurgia bucal.
+O assistente deve estar bastante familiarizado com os procedimentos
+realizados para antecipar as necessidades do cirurgião-dentista. Uma cirurgia
+bem-sucedida dificilmente se realizará com pouca ou nenhuma assistência.
+Emprega-se a técnica asséptica para minimizar a contaminação da ferida por
+micróbios patogênicos. Este importante princípio cirúrgico é discutido em
+detalhes no Capítulo 5.
+Muitos procedimentos na cirurgia bucomaxilofacial necessitam de incisões.
+Ao se realizarem incisões nos tecidos, convém relembrar alguns princípios
+básicos.
+    O primeiro deles é o uso de lâmina afiada de tamanho e forma
+adequados. Uma lâmina afiada possibilita que o cirurgião faça as incisões
+com precisão, sem causar lesões desnecessárias por movimentos repetitivos.
+A rapidez com a qual a lâmina perde o fio de corte depende da resistência
+dos tecidos que ela incisa. O osso e os tecidos ligamentares cegam as
+lâminas muito mais rapidamente que a mucosa bucal. Portanto, o cirurgião-
+dentista deve trocar a lâmina sempre que o bisturi não estiver fazendo a
+incisão com facilidade.
+    O segundo princípio é que a incisão deve ser firme e contínua.
+Repetições e tentativas de incisar aumentam a quantidade de dano tecidual e
+de sangramento em uma ferida cirúrgica. Incisões longas e contínuas são
+preferíveis a incisões curtas e intermitentes (Figura 3.1A).
+    O terceiro princípio é a preservação de estruturas importantes, evitando
+incisá-las por acidente. A microanatomia de cada paciente mostra-se única.
+Portanto, para evitar o corte não intencional de grandes vasos ou nervos, o
+cirurgião deve fazer incisões apenas em profundidade suficiente para definir
+o próximo plano maior, quando fará cortes próximos a vasos maiores, ductos
+e nervos. Os vasos podem ser controlados mais facilmente antes de serem
+completamente divididos. Importantes nervos também costumam poder ser
+separados dos tecidos adjacentes e afastados da área a ser incisada. Além
+disso, quando usar um bisturi, o cirurgião deve permanecer focado na
+localização da lâmina a fim de evitar cortar estruturas inadvertidamente,
+como os lábios, ao mover o bisturi para dentro e para fora da boca.
+    O quarto princípio é que incisões em superfícies epiteliais, as quais o
+cirurgião planeja reaproximar, devem ser feitas com a lâmina em posição
+perpendicular. Tal ângulo produz bordas quadradas no corte, mais fáceis de
+reorientar apropriadamente durante a sutura, e menos suscetíveis à necrose
+nas bordas da incisão como resultado da isquemia (ver Figura 3.1B).
+    O quinto princípio é que as incisões na cavidade bucal devem ser bem
+posicionadas. Incisões em gengivas inseridas e sobre ossos saudáveis são
+mais desejáveis que aquelas em gengivas não inseridas e em ossos doentes e
+ausentes. Incisões posicionadas apropriadamente possibilitam que as
+margens da ferida sejam suturadas sobre tecido intacto. O osso saudável
+deve estar, pelo menos, a alguns milímetros de distância do osso danificado,
+o que oferece suporte para a cicatrização da incisão. Do mesmo modo,
+quando possível, é melhor evitar incisões sobre proeminências, como a
+eminência canina, porque a pressão na ferida fechada em uma proeminência
+pode interferir na cicatrização. Incisões posicionadas próximo ao dente a ser
+extraído devem ser feitas no sulco gengival, a não ser que haja a necessidade
+de incisar a gengiva marginal ou deixar a gengiva marginal intacta.
+Retalhos cirúrgicos são feitos para se conseguir acesso cirúrgico a uma área
+ou para mover o tecido de um local para outro. Vários princípios básicos de
+desenhos de retalho devem ser seguidos a fim de prevenir as complicações
+primárias do retalho cirúrgico: necrose, deiscência e dilaceração.
+
+
+
+
+A necrose no retalho pode ser evitada se o cirurgião atender a quatro
+princípios básicos do projeto do retalho: (1) o ápice do retalho nunca deve
+ser maior que a base, a não ser que a artéria principal esteja presente na base.
+Preferivelmente, os retalhos devem ter lados paralelos um ao outro ou
+convergir da base para o ápice do retalho. (2) Geralmente, a altura de um
+retalho deve ter não mais que duas vezes a largura da base. A largura da base
+deve ser preferivelmente maior que a altura do retalho (Figura 3.2). A adesão
+estrita a tal princípio é menos relevante com relação à cavidade bucal,
+devido à robusta vascularização da mucosa bucal, mas, geralmente, o
+comprimento do retalho não deve jamais exceder sua largura. (3) Quando
+possível, um suprimento de sangue axial deve ser colocado na base do
+retalho. Por exemplo, um retalho no palato deve ser posto na direção da
+artéria palatina maior, quando possível. (4) A base dos retalhos não deve ser
+excessivamente torcida, esticada ou pressionada com qualquer coisa que
+danifique os vasos, pois essas manobras podem comprometer a alimentação
+do suprimento sanguíneo e drenar o retalho, assim como os delicados vasos
+linfáticos.
+
+
+
+
+Previne-se a deiscência (separação que leva à abertura de uma incisão
+suturada) da margem do retalho pela aproximação das bordas do retalho
+sobre o osso saudável, pela delicada manipulação das bordas do retalho e
+pelo não posicionamento das margens do retalho sob tensão. Não deverá ser
+necessário usar nenhuma força significativa para unir os tecidos enquanto se
+sutura uma ferida. A deiscência expõe o osso subjacente e outros tecidos,
+produzindo dor, perda óssea e aumento da cicatriz.
+
+
+
+
+A dilaceração de um retalho é uma complicação comum do cirurgião
+principiante que tenta realizar um procedimento usando um retalho que
+oferece acesso insuficiente. Uma incisão longa devidamente reparada
+cicatriza-se tão rápido quanto uma incisão curta. Por isso, é preferível criar
+um retalho no começo da cirurgia que seja amplo o suficiente para o
+profissional evitar a dilaceração ou interromper o procedimento para
+estender mais a incisão. Retalhos em envelope são aqueles criados por
+incisões que produzem um retalho de apenas uma face. Um exemplo é uma
+incisão feita ao redor do colo de vários dentes para expor o osso alveolar
+sem quaisquer incisões relaxantes verticais. No entanto, se um retalho em
+envelope não oferecer acesso suficiente, ele deve ser aumentado ou outra
+incisão (uma relaxante) deve ser realizada a fim de evitar a dilaceração do
+retalho (Figura 3.3). Em geral, incisões relaxantes verticais (oblíquas) devem
+ser posicionadas envolvendo o espaço de um dente inteiro anterior à área de
+qualquer remoção óssea planejada. A incisão costuma ser iniciada no ângulo
+linear de um dente ou na papila interdental adjacente e é realizada
+obliquamente e para apical na gengiva não inserida. A necessidade de mais
+de uma incisão relaxante mostra-se incomum quando se usa um retalho para
+ganhar acesso cirúrgico bucal de rotina.
+                                                                                     o
+• Figura 3.1 A. Método apropriado de fazer incisão usando-se bisturi lâmina n
+15. Observe o movimento do bisturi feito com a mão à altura do pulso e não com
+todo o antebraço. B. Quando se deseja criar planos de tecidos que serão
+aproximados com suturas, a lâmina deve ser mantida perpendicular à superfície do
+tecido a ﬁm de criar bordas quadradas no corte. Segurar a lâmina em qualquer
+ângulo que não seja 90° cria um corte oblíquo na superfície do tecido que é difícil
+de fechar apropriadamente e compromete o fornecimento de sangue para a borda
+da ferida. (Adaptada de Clark HB Jr. Practical oral surgery, 3. ed., Philadelphia: Lea
+& Febiger;1965.)
+Muitas vezes, a diferença entre um resultado cirúrgico aceitável e um
+excelente depende de como o cirurgião manipula os tecidos. O uso das
+técnicas de uma incisão e o formato apropriado do retalho são importantes;
+contudo, o tecido também deve ser manuseado com cuidado. Puxar ou
+apertar excessivamente, temperaturas extremas, dissecção ou uso de
+produtos químicos não fisiológicos danificam facilmente o tecido. Portanto,
+o cirurgião deve ser cuidadoso sempre que manipular o tecido. Quando usar
+pinças, não se deve apertar com muita força, mas, de preferência, usá-las
+para segurar delicadamente o tecido. Quando possível, devem-se usar pinças
+denteadas ou ganchos de tecido (Figura 3.4). Além disso, os tecidos não
+devem ser afastados com força para se conseguir maior acesso cirúrgico.
+Isso inclui não puxar excessivamente as bochechas ou a língua durante o
+afastamento cirúrgico. Note que o afastamento excessivo é desconfortável
+para os pacientes, mesmo se as bochechas ou a língua estiverem
+anestesiadas. Quando o osso é cortado, deve ser empregada irrigação
+abundante para diminuir a quantidade de osso danificado devido ao calor da
+fricção. O tecido mole também deve ser protegido do calor da fricção ou do
+traumatismo direto do equipamento de perfuração. Não se deve deixar que
+os tecidos sejam desidratados; cortes abertos devem ser umedecidos
+frequentemente ou cobertos com uma gaze úmida, se o cirurgião não estiver
+trabalhando neles por um tempo. Por fim, apenas substâncias fisiológicas
+devem entrar em contato com tecido vivo. Por exemplo, pinças de tecido
+usadas para colocar uma amostra na formalina durante o procedimento da
+biopsia não devem retornar à ferida até não haver qualquer contaminação
+com tal substância. O cirurgião que manuseia o tecido de maneira delicada e
+fisiológica é recompensado com a gratidão dos pacientes, cujas feridas
+cicatrizaram com menos complicações.
+A prevenção de perda excessiva de sangue durante a cirurgia é importante
+para preservar a capacidade de o paciente transportar oxigênio. No entanto,
+manter a hemostasia meticulosa durante a cirurgia mostra-se necessário por
+outros motivos importantes. Um deles é a diminuição da visibilidade,
+ocasionada por sangramento incontrolável. Mesmo um sugador de alta
+potência não consegue manter um campo cirúrgico completamente seco,
+sobretudo na região bucomaxilofacial, que é bem vascularizada. Outro
+problema que causa sangramento é a formação de hematomas (coleções de
+sangue sob tecido mole). Os hematomas pressionam as feridas, diminuindo a
+vascularização. Eles aumentam a tensão nas bordas da ferida e agem como
+meios de cultura, potencializando o desenvolvimento de infecções.
+• Figura 3.2 A. Princípios do desenho do retalho. Em geral, a dimensão da base
+do retalho (x) não deve ser menor que a dimensão da altura (y) e convém ser, de
+preferência, aproximadamente x = 2y. B. Quando uma incisão relaxante é usada
+para rebater um retalho de duas faces, a incisão deve ser projetada para
+maximizar o suprimento de sangue do retalho ao deixar uma base grande. O
+desenho à esquerda está correto; o desenho à direita está incorreto. C. Quando
+uma dilaceração tipo “casa de botão” ocorrer próximo à borda livre do retalho, há
+comprometimento do retalho no lado do orifício fora da base do retalho.
+
+
+
+
+• Figura 3.3 Três tipos de retalhos dos tecidos moles da boca devidamente
+projetados. A. Incisões horizontais e verticais únicas realizadas para criar retalho
+de dois lados. B. Duas incisões verticais e uma horizontal costumam gerar
+retalhos de três lados. C. Incisão horizontal única para proporcionar retalho (em
+envelope) de um lado.
+
+
+
+
+• Figura 3.4 Instrumentos usados para minimizar os danos ao segurar tecido
+mole. Em cima, pinça de tecido com dentes delicados (dente de rato). Embaixo,
+gancho de tecido mole (pele).
+
+
+
+
+Obtém-se hemostasia da ferida por quatro meios. O primeiro é auxiliando
+mecanismos hemostáticos naturais. Isso costuma ser realizado utilizando-se
+uma esponja de gaze para pressionar os vasos que estão sangrando ou
+colocando um hemostático em um vaso. Ambos os métodos causam
+estagnação do sangue nos vasos, o que promove coagulação. Em geral,
+apenas alguns vasos pequenos requerem pressão por 20 ou 30 segundos,
+enquanto vasos maiores requerem de 5 a 10 minutos de pressão contínua. O
+cirurgião e os assistentes devem comprimir, em vez de esfregar, a ferida com
+esponjas de gaze para remover o sangue extravasado. Esfregando, é mais
+provável que reabram os vasos que já estão fechados com o sangue
+coagulado.
+    Um segundo meio de obter hemostasia é pelo uso do calor para fundir a
+ponta dos vasos cortados (coagulação térmica/eletrocoagulação). O calor
+costuma ser aplicado por meio de uma corrente elétrica que o cirurgião-
+dentista concentra no vaso em sangramento, segurando o vaso com um
+instrumento de metal, como uma pinça hemostática, ou tocando o vaso
+diretamente com a ponta do bisturi elétrico. Três condições devem ser
+criadas para o uso apropriado da coagulação térmica: (1) o indivíduo deve
+estar aterrado para que a corrente entre em seu corpo; (2) a ponta do cautério
+e qualquer instrumento de metal que a ponta do cautério tocar não podem
+tocar o paciente em nenhum ponto que não seja o local do sangramento do
+vaso (caso contrário, a corrente pode seguir um caminho indesejado e
+ocasionar uma queimadura); e (3) o terceiro procedimento para a coagulação
+térmica é a remoção de qualquer sangue ou fluido que se tenha acumulado
+em torno do vaso a ser cauterizado. O fluido funciona como um reservatório
+de energia e, assim, evita que uma quantidade suficiente de calor atinja o
+vaso para a cauterização.
+    O terceiro meio de promover a hemostasia cirúrgica é pela ligadura por
+sutura. Se um vaso de tamanho considerável for cortado, segura-se cada
+ponta com uma pinça hemostática. O cirurgião-dentista, então, amarra
+suturas não absorvíveis ao redor do vaso. Se este puder ser dissecado livre
+do tecido conjuntivo ao redor, antes que seja cortado, duas pinças
+hemostáticas podem ser colocadas no vaso com espaço suficiente entre elas
+para dividi-lo. Uma vez que o vaso esteja cortado, suturas são amarradas em
+volta de cada ponta e as pinças hemostáticas são removidas.
+    A quarta maneira de promover hemostasia é colocar substâncias
+vasoconstritoras na ferida, como a epinefrina, ou aplicar pró-coagulantes,
+como trombina ou colágeno. A epinefrina funciona como um vasoconstritor
+mais efetivamente quando colocada no local em que se deseja a
+vasoconstrição por, pelo menos, 7 minutos antes de a cirurgia começar. A
+epinefrina é ineficaz na promoção de hemostasia local se for administrada
+depois de iniciado o sangramento.
+
+
+
+
+Espaço morto em uma ferida é qualquer área que permaneça desprovida de
+tecido após o fechamento da ferida. Pode ser gerado pela remoção de tecido
+na profundidade de uma ferida e pela não reaproximação de todos os planos
+teciduais durante o fechamento. O espaço morto em uma ferida costuma ser
+preenchido com sangue, o que cria um hematoma com grande potencial para
+infecção.
+    O espaço morto pode ser eliminado de quatro maneiras. (1) A primeira é
+suturar por meio de planos teciduais para minimizar o vazio pós-operatório.
+(2) A segunda é colocar um curativo compressivo sobre a ferida suturada. Os
+curativos comprimem os planos teciduais juntos até que estejam ligados pela
+fibrina ou prensados juntos por um edema cirúrgico (ou ambos). Isso
+geralmente leva de 12 a 18 horas. (3) O terceiro modo de eliminar espaço
+morto é colocar uma compressa no espaço até que o sangramento pare e,
+então, remover a compressa. Essa técnica costuma ser usada quando o
+cirurgião não pode suturar o tecido ou colocar curativos compressivos (p.
+ex., quando uma cavidade óssea permanece após a remoção do cisto). O
+material de compressa deve estar impregnado com medicação antibacteriana
+para diminuir a chance de infecção. (4) A quarta maneira de evitar espaço
+morto é usar drenos, isoladamente ou com curativos compressivos. Drenos
+de sucção removem continuamente todo o sangue acumulado em uma ferida
+até que o sangramento pare e os tecidos se unam, eliminando qualquer
+espaço morto. Drenos de não sucção fazem com que todo o sangramento
+seja drenado até a superfície, em vez de formar um hematoma (Figura 3.5).
+Na maioria dos procedimentos cirúrgicos bucais de rotina realizados por
+cirurgiões-dentistas, a criação de um espaço morto não é um grande
+problema.
+Invariavelmente, bactérias contaminam todos os cortes abertos em um
+ambiente externo ou bucal. Uma vez que o risco de infecção aumenta com a
+quantidade de microrganismos inoculados, um meio de diminuir a chance de
+infecção da ferida é reduzir o número de bactérias. Isso pode ser feito
+facilmente ao irrigar a ferida repetidas vezes durante a cirurgia e o
+fechamento. A irrigação, sobretudo quando feita sob pressão, afasta bactérias
+e outros materiais externos e os “enxágua” para fora da ferida. A irrigação
+pode ser feita forçando grandes volumes de fluido sobre pressão na ferida.
+Embora soluções contendo antibióticos possam ser consideradas, a maioria
+dos cirurgiões usa simplesmente soro fisiológico ou água esterilizados.
+
+
+
+
+• Figura 3.5 Exemplo de dreno de não sucção. Este dreno de Penrose é feito de
+material emborrachado e ﬂexível, que pode ser colocado na ferida durante o
+fechamento ou depois da incisão e da drenagem do abscesso. O procedimento
+evita uma vedação prematura da ferida antes que a coleta de sangue ou secreção
+purulenta possa drenar a superfície. O material de drenagem estende-se ao longo
+e através do dreno de Penrose. Neste exemplo, uma sutura foi atada ao dreno, que
+está pronto para a inserção na ferida. A ponta da agulha da sutura será usada para
+unir o dreno à borda da ferida a ﬁm de segurá-lo no local.
+
+    Desbridamento da ferida é a remoção cuidadosa de tecido gravemente
+isquêmico e necrosado e de material externo do tecido lesionado que
+impediria o reparo da ferida. Em geral, adota-se o desbridamento apenas
+durante o tratamento de feridas ocorridas traumaticamente ou em caso de
+dano grave no tecido causado por uma condição patológica, como uma
+infecção.
+O edema ocorre após a cirurgia como resultado de lesão tecidual. Ele é um
+acúmulo de fluido no espaço intersticial devido a transudação fluida de
+vasos danificados e obstrução linfática pela fibrina. Duas variáveis ajudam a
+determinar o grau de edema pós-cirúrgico: (1) quanto maior a quantidade de
+lesão tecidual, maior a quantidade de edema; e (2) quanto mais frouxo o
+tecido conjuntivo contido na região lesionada, maior o edema. Por exemplo,
+a gengiva inserida tem pouco tecido conjuntivo frouxo e, por isso, apresenta
+menor tendência para edema; no entanto, os lábios e o assoalho da boca
+contêm uma grande quantidade de tecido conjuntivo frouxo e podem inchar
+significativamente.
+    O cirurgião-dentista pode controlar a quantidade de edema pós-cirúrgico
+realizando o procedimento de modo a minimizar lesões no tecido. Alguns
+acreditam que a aplicação de gelo em uma área recém-ferida reduza a
+vascularidade e, assim, a transudação e o edema. No entanto, nenhum estudo
+controlado verificou a eficácia dessa prática. O posicionamento do paciente
+no período pós-operatório inicial também é usado para diminuir o edema ao
+tentar que o paciente mantenha a cabeça elevada acima do resto do corpo
+tanto quanto possível durante os primeiros dias depois da cirurgia. A curto
+prazo, altas doses de corticosteroides sistêmicos, que apresentam um
+impressionante poder de diminuir a inflamação e a transudação (e, por
+conseguinte, o edema), podem ser administradas ao paciente. No entanto, os
+corticosteroides são úteis para controlar o edema apenas se a administração
+for iniciada antes de o tecido ser lesionado.
+A cicatrização apropriada da ferida depende da capacidade do paciente de
+resistir a infecções, de fornecer nutrientes essenciais para usar como
+materiais de construção e executar processos celulares reparadores. Inúmeras
+condições clínicas prejudicam a capacidade do paciente de resistir a
+infecções e cicatrizar cortes. Isso inclui condições que estabelecem um
+estado catabólico de metabolismo que impede a entrega de oxigênio ou
+nutrientes aos tecidos ou que requerem administração de medicamentos ou
+agentes físicos que interferem em células imunológicas ou cicatrização de
+cortes. São exemplos de enfermidades que induzem um estado metabólico
+catabólico: diabetes melito tipo 1 mal controlado, doença hepática ou renal
+em estágio final e doenças malignas. São condições que interferem na
+entrega de oxigênio ou nutrientes a tecidos lesionados: doença pulmonar
+obstrutiva crônica (DPOC) grave, insuficiência cardíaca congestiva (ICC)
+descompensada e toxicodependências, como o alcoolismo. Por sua vez, são
+enfermidades que requerem a administração de medicamentos que
+interferem nas defesas do hospedeiro ou na capacidade de cicatrizar feridas:
+doenças autoimunes para as quais é administrada terapia com
+corticosteroides a longo prazo e malignidades para as quais são usados
+agentes citotóxicos e irradiação.
+    O profissional pode ajudar a aumentar as chances de o paciente ter
+cicatrização normal de uma ferida cirúrgica eletiva ao avaliar e melhorar o
+estado geral de saúde do indivíduo antes do procedimento. Para pacientes
+malnutridos, convém melhorar o estado nutricional para que este tenha um
+equilíbrio positivo de nitrogênio e metabolismo anabólico.
+Capítulo 7
+James R. Hupp
+
+Texto reconstituído a partir de extração em texto simples: figuras e títulos de seção do original não estão
+presentes; as legendas das figuras foram mantidas.
+
+
+Este capítulo apresenta o instrumental comumente utilizado para realizar extrações
+dentárias de rotina e outras intervenções cirúrgicas bucais básicas. Os instrumentais
+ilustrados e descritos têm diversas finalidades, incluindo procedimentos em tecidos
+moles e duros. O capítulo fornece, essencialmente, uma descrição dos instrumentais;
+sua utilização é discutida nos capítulos subsequentes.
+
+Muitos procedimentos cirúrgicos começam com uma incisão. O instrumento básico
+para fazer incisões é o bisturi, composto por um cabo e por uma lâmina estéril bem
+afiada (Figura 7.1). Os bisturis são de uso único com cabo de plástico e lâminas fixas;
+também há alças de bisturi, às quais as lâminas descartáveis podem ser anexadas. O
+cabo mais comumente usado para a cirurgia bucal é o de nº 3. A ponta de um cabo de
+bisturi está configurada para receber várias lâminas de diferentes formatos, as quais
+são inseridas na ranhura do cabo. A lâmina de bisturi mais frequentemente usada
+para a cirurgia intrabucal é a de nº 15 (Figura 7.2). Ela é pequena e usada para fazer
+incisões em torno dos dentes e nos tecidos moles. A lâmina assemelha-se em forma
+com a maior lâmina de nº 10, usada para grandes incisões na pele em outras partes
+do corpo. Outras lâminas empregadas em cirurgia intrabucal são as de nº 11 e de nº
+12. A nº 11 é uma lâmina pontiaguda utilizada, principalmente, para fazer pequenas
+incisões, como para incisar um abscesso e drená-lo. A lâmina em forma de gancho nº
+12 é útil para procedimentos nas áreas mucogengivais em que as incisões são feitas
+sobre as faces posteriores dos dentes ou na área da tuberosidade maxilar. A lâmina
+de bisturi deve ser cuidadosamente colocada no cabo que prende a lâmina com um
+porta-agulha. Isso diminui a chance de lesionar os dedos. Segura-se a lâmina pela
+extremidade sem corte, a qual é reforçada com um pequeno encaixe, e segura-se o
+cabo de modo que a parte macho do encaixe esteja apontada para cima (Figura 7.3A).
+Depois, desliza-se lentamente a lâmina de bisturi para o cabo pelos sulcos da porção
+macho até que se encaixe na posição (Figura 7.3B). Desmonta-se o bisturi de modo
+semelhante. O porta-agulha prende a extremidade oposta da lâmina (Figura 7.3C) e
+levanta-a para soltá-la do encaixe macho. Desliza-se, então, a lâmina de bisturi para
+fora do cabo,
+
+sempre longe do corpo e de alguém próximo (Figura 7.3D). A lâmina usada é logo
+descartada em um recipiente rígido para objetos afiados, especificamente projetado
+(ver Figura 5.6C).
+  Figura 7.1 Bisturis são compostos por um cabo e uma lâmina. Em cima, cabo de bisturi reutilizável nº
+  3 com lâmina de uso único (uma lâmina nº 15 é mais comumente usada para cirurgia bucal).
+  Embaixo, unidade cabo-lâmina de uso único (descartável) com lâmina nº 15. Quando se utiliza o
+  bisturi para fazer uma incisão, o cirurgião-dentista segura o cabo normalmente como se fosse uma
+  caneta (Figura 7.4), para ter o controle máximo da lâmina durante a incisão. Para a máxima eficácia
+  da incisão, o tecido móvel deve ser mantido firmemente no lugar sob alguma tensão para que,
+  enquanto a incisão for feita, a lâmina incise e não apenas afaste a mucosa. Quando se realiza a
+
+
+
+                          Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  incisão do tecido mole retrátil, um instrumento tipo afastador deve ser utilizado para segurar o
+  tecido distendido durante a incisão. Quando se deseja a espessura total da incisão mucoperiosteal, a
+  lâmina deve ser pressionada para baixo, firmemente, de modo que a incisão penetre a mucosa e o
+  periósteo com o mesmo movimento.
+
+  Figura 7.2Aslâminasdebisturiutilizadasnacirurgiabucalsãoasden o 10,nº 11,nº 12 en o 15
+  (daesquerdaparaadireita).
+
+  Figura 7.3 A. Ao colocar uma lâmina de bisturi, o cirurgião-dentista prende a porção não cortante da
+  lâmina no porta-agulha e segura o cabo, com a parte macho do encaixe apontada para cima. B. O
+  cirurgião-dentista, em seguida, desliza a lâmina para o cabo até que se encaixe. C. Para remover a
+  lâmina, utiliza o porta-agulha para agarrar a extremidade da lâmina ao lado do cabo e levanta-o
+  para desengatar do encaixe. D. O cirurgião, então, desliza suavemente a lâmina para fora do cabo
+  longe do corpo e de qualquer pessoa próxima. As lâminas de bisturi são projetadas para uso em um
+  único paciente. Elas perdem o corte facilmente quando entram em contato com tecidos duros, como
+  ossos ou dentes, e mesmo depois de repetidos movimentos através de tecido queratinizado. Se
+  forem necessárias várias incisões do mucoperiósteo ao osso, pode ser necessário usar mais de uma
+  lâmina durante uma cirurgia. Lâminas cegas não fazem incisões limpas, precisas em tecidos moles.
+  Portanto, devem ser substituídas antes que se tornem excessivamente imprecisas.
+
+O plano tecidual entre o periósteo e o osso é relativamente exangue e bem definido.
+Quando é feita uma incisão através do periósteo, este deve ser preferencialmente
+rebatido a partir do osso cortical subjacente em apenas uma camada subperiosteal,
+com um elevador periosteal. O instrumental mais comumente usado em cirurgia
+bucal é o elevador periosteal Molt nº 9 (Figura 7.5). Ele apresenta uma extremidade
+pontiaguda afiada e uma ponta arredondada mais larga. Utiliza-se a extremidade
+pontiaguda para iniciar a elevação do periósteo e rebater papilas entre os dentes,
+enquanto a extremidade larga e arredondada é destinada a continuar a elevação do
+periósteo do osso.
+  Figura 7.4 Segura-se o cabo do bisturi como se fosse uma caneta para possibilitar o controle
+  máximo.
+
+  Figura 7.5 O elevador de periósteo tipo Molt nº 9 é o mais utilizado em cirurgias bucais.
+
+  Figura 7.6 O afastador de Austin é um afastador de ângulo reto que pode ser usado para afastar a
+  bochecha, a língua ou os retalhos.
+
+  Figura 7.7 O afastador de Minnesota é um instrumento compensado utilizado para separar
+  bochechas e retalhos. A. Vista frontal. B. Vista posterior.
+
+  Figura 7.8 Os afastadores de Henahan (superior) e Seldin (inferior) são instrumentais mais amplos
+  que proporcionam ampla separação e melhor visualização. O elevador periosteal Molt nº 9 é
+  tipicamente empregado para rebater o tecido por dois métodos. No primeiro método, utiliza-se a
+  extremidade pontiaguda em movimento de torção, forçando o movimento para elevar tecido mole,
+  geralmente ao elevar uma papila entre dentes ou na gengiva inserida em torno de um dente a ser
+  extraído ou quando começar a descolar toda a espessura do retalho mucoperiosteal. O segundo
+  método envolve o movimento de impulso, em que se deslizam o lado da extremidade pontiaguda ou
+  a extremidade larga do instrumento por baixo do periósteo, separando-o do osso subjacente. Esse é
+  o movimento mais eficiente e resulta na divulsão mais precisa do periósteo. Existem outros tipos de
+  elevadores periosteais para periodontistas, cirurgiões ortopédicos e outros cirurgiões que trabalham
+  com ossos.
+
+Um bom acesso e uma boa visão são essenciais para executar uma excelente cirurgia.
+Vários afastadores foram projetados especificamente para afastar a bochecha, a
+língua e os retalhos mucoperiosteais, proporcionando acesso e visibilidade durante a
+cirurgia. Afastadores também são usados para ajudar a proteger o tecido mole de
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+instrumentais afiados cortantes. Os dois afastadores de bochecha mais populares são:
+(1) o afastador de Austin de ângulo reto (Figura 7.6); e (2) o afastador de Minnesota
+de diversas dobras em ângulos (Figura 7.7). Eles também podem ser utilizados para
+afastar a bochecha e o retalho mucoperiosteal simultaneamente. Antes da criação do
+retalho, mantém-se o afastador frouxamente na bochecha. Uma vez divulsionado o
+retalho, coloca-se a borda do afastador no osso e, depois, utiliza-se essa borda para
+afastar o retalho. Os afastadores de Seldin e Henahan são outros tipos de
+instrumentais (Figura 7.8) empregados para afastar tecidos moles da boca. Embora
+sejam semelhantes a um elevador periosteal, a borda desses afastadores não é afiada,
+mas lisa. Esses instrumentais não devem ser usados normalmente para elevar o
+mucoperiósteo. O elevador periosteal Molt de nº 9 também pode ser usado como um
+afastador para pequenos retalhos. Uma vez elevado o periósteo, mantém-se a lâmina
+larga do descolador periosteal firmemente contra o osso, com o retalho
+mucoperiosteal elevado para uma posição encurvada. O instrumental mais utilizado
+para afastar a língua durante a exodontia de rotina é o espelho bucal. Em geral, o
+espelho faz parte de todo instrumental básico, porque se mostra útil para examinar a
+boca e visualizar indiretamente os procedimentos odontológicos. O afastador de
+língua de Weider é um afastador largo, em formato de coração, serrilhado de um lado
+de modo a poder afastar a língua de maneira mais firme e afastá-la para a posição
+medial e anterior (Figura 7.9A). Quando se utiliza esse afastador, convém ter cuidado
+para não o posicionar tão posteriormente a ponto de
+
+provocar náuseas ou empurrar a língua para a orofaringe (ver Figura 7.9B). Uma
+pinça de campo (Figura 7.28) também pode ser utilizada para segurar a língua em
+determinadas circunstâncias. Quando se realiza o procedimento da biopsia na parte
+posterior da língua, a melhor maneira de controlá-la é segurando-a na posição
+anterior com uma pinça de campo. A anestesia local deve ser profunda onde se coloca
+a pinça e, se for o caso, é aconselhável avisar ao paciente que esse método de
+afastamento pode ser utilizado.
+
+Vários procedimentos em cirurgia bucal requerem que o cirurgião faça uma preensão
+do tecido mole para realizar uma incisão, parar o sangramento ou passar uma agulha
+de sutura. O instrumental mais utilizado para isso é a pinça de Adson (ou pick-up)
+(Figura 7.10A). Trata-se de uma pinça delicada, com ou sem pequenos dentes nas
+pontas, que pode ser usada para segurar o tecido delicadamente enquanto o
+estabiliza. Quando essa pinça é usada, deve-se tomar cuidado para não segurar o
+tecido com muita força, evitando esmagá-lo. As pinças dentadas possibilitam que se
+aperte o tecido mais delicadamente do que uma pinça sem dentes.
+  Figura 7.9 A. O afastador de Weider é um grande afastador concebido para retrair a língua. A
+  superfície serrilhada ajuda a encaixar a língua de modo a sustentá-la de maneira segura. B.
+  Utiliza-se afastador de Weider para manter a língua fora do campo cirúrgico. O afastador de Austin é
+  usado para retrair a bochecha.
+
+  Figura 7.10 A. Pequenas e delicadas pinças de Adson são usadas para estabilizar suavemente o
+  tecido mole para sutura ou dissecção. B. A pinça de Stillies (superior) é maior do que a pinça de
+  Adson e é empregada para manipular tecidos mais posteriores da boca. As pinças clínicas (inferior)
+  são anguladas para pegar pequenos objetos na boca ou da bandeja. A pinça clínica mostrada aqui
+  representa a versão com travamento.
+
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  Figura 7.11 A. A pinça de Allis é útil para apreender e sustentar o tecido que será excisado. B.
+  Deve-se segurar a pinça de Allis como se segura um porta agulha. C. Uma comparação entre as
+  pontas da Adson (à direita) com as pontas da Allis (à esquerda) mostra as diferenças de design e
+  uso.
+
+  Figura 7.12 A. Vista superior da pinça hemostática usada para a cirurgia bucal. B. Vista oblíqua da
+  pinça hemostática curva. Também há hemostáticas retas. Ao se trabalhar na parte posterior da
+  boca, a pinça de Adson pode ser muito curta. O instrumental mais longo com forma semelhante é a
+  pinça de Stillies, que tem, geralmente, 7 a 9 polegadas (18 a 22 centímetros) de comprimento e
+  consegue facilmente apreender o tecido na parte posterior da boca, deixando ainda uma parte
+  projetando-se para além dos lábios, a fim de que o cirurgião os segure e controle (ver Figura 7.10B).
+  Às vezes, é mais conveniente ter uma pinça angulada. Isso engloba a pinça clínica ou de algodão
+  (também chamadas pinça para algodão) (ver Figura 7.10B). Embora esse tipo de pinça não seja
+  especialmente útil para o manuseio de tecido, é um excelente instrumental para pegar fragmentos
+  soltos de dente, amálgama ou outros materiais estranhos e para colocar ou remover compressas de
+  gaze. Em alguns tipos de cirurgia, especialmente quando se removem grandes quantidades de
+  tecido ou são realizadas biopsias, como em uma epúlide fissurada, necessita-se de pinças com
+  travas nos cabos e dentes, que irão
+
+apreender firmemente o tecido. Nessa situação, são utilizadas as pinças de Allis para
+tecidos (Figura 7.11A e B). A cremalheira do cabo possibilita que as pinças sejam
+colocadas na posição correta e, em seguida, seguradas por um assistente, a fim de
+proporcionar a tensão necessária para a dissecação do tecido. A pinça de Allis nunca
+deve ser usada no tecido que será deixado na boca. Isso porque causa uma
+quantidade relativamente grande de tecido esmagado (Figura 7.11C). Esse
+instrumental, no entanto, pode ser usado para apreender a língua de modo
+semelhante a uma pinça de campo.
+
+Quando se realizam incisões através dos tecidos, pequenas artérias e veias são
+incisadas, causando hemorragia. Para a maioria das cirurgias dentoalveolares, a
+pressão sobre a ferida costuma ser suficiente para controlar o sangramento.
+Ocasionalmente, a pressão não para o sangramento de uma artéria ou uma veia
+maior. Quando isso ocorre, um instrumental chamado pinça hemostática é útil
+(Figura 7.12A). Pinças hemostáticas têm várias formas: podem ser pequenas e
+delicadas ou maiores, retas ou curvas. A pinça hemostática mais usada em cirurgia é
+a curva (ver Figura 7.12B). A pinça hemostática tem pontas longas e delicadas,
+usadas para apreender tecido, e um cabo com cremalheira. O mecanismo de
+cremalheira possibilita ao cirurgião fixar a pinça hemostática em um vaso e, em
+seguida, deixar de manusear o instrumental ou deixar um assistente segurá-lo. A
+ponta da pinça hemostática permanece presa no tecido. Isso é útil quando o
+cirurgião-dentista pretende colocar uma sutura em torno do vaso ou cauterizá-lo (ou
+seja, usar o calor para selar o vaso fechado). Além de sua utilização como
+instrumental para controlar a hemorragia, a pinça hemostática mostra-se
+especialmente útil em uma cirurgia bucal para remover o tecido de granulação de
+alvéolo do dente e para pegar pequenas pontas de raízes, pedaços de cálculo,
+amálgama, fragmentos e quaisquer outras partículas pequenas que tenham caído nas
+áreas das feridas ou adjacências. Não deve, no entanto, ser utilizada para suturar.
+
+O instrumental mais utilizado para a remoção de osso em uma cirurgia dentoalveolar
+é a pinça-goiva. Ela tem lâminas afiadas que são pressionadas juntas pelos cabos, ao
+cortar ou apreender o osso. As pinças-goivas têm um mecanismo que, quando se
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+libera a pressão da mão, o instrumental reabre. Isso possibilita ao cirurgião-dentista
+fazer manobras de corte repetidas no osso sem reabrir manualmente o instrumental
+(Figura 7.13A). Os dois principais modelos de pinças-goivas são: (1) o de corte lateral;
+e (2) o de corte lateral e terminal (ver Figura 7.13B). As pinças de cortes lateral e
+terminal (pinças-goivas) são mais práticas para a maioria dos procedimentos
+cirúrgicos dentoalveolares que exigem remoção óssea. As de corte final podem ser
+inseridas nos alvéolos para a remoção de osso inter-radicular e também para retirar
+margens cortantes do osso. As pinças-goivas podem ser usadas para remover grandes
+quantidades de osso com eficiência e rapidez. Como a pinça é um instrumental
+delicado, o cirurgião-dentista não deve usá-la para remover grandes quantidades de
+osso de uma só vez – pequenas quantidades de osso devem ser removidas em várias
+apreensões. Da mesma maneira, ela nunca deve ser usada na remoção dos dentes,
+porque tal prática rapidamente irá deixá-la sem corte e danificá-la, além do risco de
+se perder um dente na orofaringe do paciente. Isso porque a pinça-goiva não é
+projetada para segurar firmemente um dente extraído. Pinças-goivas são caras; por
+isso, deve-se tomar cuidado para mantê-las afiadas e em funcionamento. Outro
+método para a remoção de osso é o uso de broca em uma peça de mão. Essa é a
+técnica que a maioria dos profissionais da área utiliza durante a
+
+remoção do osso na cirurgia odontológica. Peças de mão de alto torque e de
+moderada velocidade com pontas de carboneto afiadas removem o osso cortical de
+maneira eficiente (Figura 7.14). Usam-se brocas como as fissuradas de nº 557 ou de
+nº 703 e as brocas esféricas de nº 8. Quando grandes quantidades de osso são
+removidas, como na redução de torus, utiliza-se normalmente uma grande broca de
+osso semelhante a uma de acrílico.
+  Figura 7.13 A. Pinças-goivas são fórceps de corte ósseo que apresentam molas nos cabos. B. As
+  pinças-goivas Blumenthal compreendem ambas as lâminas de corte, dianteiras e laterais. Elas são
+  as preferidas para os procedimentos cirúrgicos bucais.
+
+  Figura 7.14 Peça de mão típica de moderada velocidade, alto torque, esterilizável, com broca de nº
+  703. Qualquer peça de mão usada para cirurgia bucal precisa ser completamente esterilizada. Ao se
+  comprar uma peça de mão, as especificações do fabricante devem ser verificadas com cuidado para
+  se assegurar a esterilização. A peça de mão deve ter alta velocidade e alto torque (Figura 7.14). Isso
+  possibilita a remoção óssea rápida e eficiente corte de dentes. A peça de mão não deve ter exaustão
+  de ar no campo operatório, o que tornaria inadequado usar as típicas brocas de alta velocidade da
+  turbina de ar empregadas na Odontologia restauradora de rotina. A razão é que o ar expelido para a
+  ferida pode ser forçado para dentro de planos teciduais mais profundos e produzir enfisema do
+  tecido, uma complicação perigosa. Ocasionalmente, realiza-se a remoção óssea utilizando-se um
+  martelo e um cinzel (Figura 7.15), embora a disponibilidade de peças de mão de alta velocidade
+  para a remoção de ossos e cortes de dentes tenha limitado muito a necessidade desses
+  instrumentais. Às vezes, o martelo e o cinzel são empregados na remoção do torus lingual. A ponta
+  do cinzel deve ser mantida afiada para funcionar efetivamente (ver Capítulo 13).
+
+O nivelamento final do osso antes da conclusão da cirurgia costuma ser realizado com
+uma pequena lima para osso (Figura 7.16A). Geralmente, é um instrumental de ponta
+dupla, com uma extremidade pequena e outra maior. Não é eficiente para a remoção
+de grandes quantidades de osso; portanto, é empregada somente para nivelamento
+final. Os dentes da maioria de limas para osso são organizados de tal maneira que
+removem apropriadamente o osso com um simples movimento de tração (ver Figura
+7.16B). Empurrar esse tipo de lima contra o osso resulta apenas no polimento e no
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+esmagamento do osso, e isso deve ser evitado.
+  Figura 7.15 Martelo e cinzéis cirúrgicos podem ser utilizados para remover ossos.
+
+  Figura 7.16 A. A lima para ossos com ponta dupla é usada para lapidar pequenas bordas cortantes
+  ou espículas ósseas. B. Os dentes da lima para osso são eficazes com um simples movimento de
+  tração.
+
+A cureta comumente usada para a cirurgia bucal é um instrumental com duas pontas
+anguladas usado para remover o tecido mole de defeitos ósseos (Figura 7.17). Seu
+uso principal é a remoção dos granulomas ou pequenos cistos de lesões periapicais,
+mas também pode ser usada para remover pequenas quantidades de restos de tecido
+de granulação e detritos do alvéolo dentário. Existem grandes curetas para a
+remoção de tecidos moles de grandes cavidades ósseas, como cistos. Observa-se que
+a cureta periapical é claramente diferente da periodontal em desenho e função.
+
+Uma vez concluído o procedimento cirúrgico, devolve-se o retalho mucoperiosteal à
+sua posição original e mantém-se o mesmo no lugar por meio de suturas. O
+porta-agulha é o instrumental utilizado para essas suturas. O porta-agulha é um
+instrumental que tem um cabo com travamento e pontas curtas e arredondadas. Para
+a colocação intrabucal de suturas, recomenda-se um porta-agulha de 7 polegadas (17
+cm) (Figura 7.18). A ponta de um porta agulha é mais curta e mais forte do que a de
+uma pinça hemostática (Figura 7.19). A face interna da ponta do porta-agulha tem
+ranhuras cruzadas, a fim de possibilitar uma apreensão positiva da agulha de sutura.
+A pinça hemostática tem sulcos paralelos na face interna das pontas, o que diminui o
+controle sobre a agulha e a sutura. Portanto, a pinça hemostática não é um
+instrumental utilizado para sutura.
+  Figura 7.17 A cureta periapical é um instrumental de duas pontas, em formato de colher, usado para
+  remover tecido mole de cavidades ósseas. Para controlar a abertura e o fechamento da cremalheira
+  adequadamente e para direcionar o porta-agulha, o cirurgião tem que segurar o instrumental de
+  maneira correta (Figura 7.20). Inserem-se o polegar e o dedo anelar através dos anéis. O dedo
+  indicador é mantido ao longo do comprimento do porta-agulha para estabilizá-lo e direcioná-lo. O
+  segundo dedo auxilia no controle da apreensão do instrumental. O dedo indicador não deve ser
+
+colocado através do anel de dedo do porta-agulha, pois isso resultará em considerável
+diminuição do controle. A agulha utilizada no fechamento de incisões da mucosa
+bucal costuma ser uma agulha de sutura com um semicírculo pequeno ou três oitavos
+de círculo. A agulha é curva para que passe através de um espaço limitado, onde uma
+agulha reta não consegue alcançar, e a passagem pode ser feita com uma torção do
+pulso. Há agulhas de sutura de vários formatos, desde muito pequenas até muito
+grandes (Figura 7.21A). As pontas das agulhas de sutura são afiadas como agulhas de
+costura ou têm pontas triangulares, que as possibilitam ser agulhas de corte. Uma
+agulha de corte passa através do mucoperiósteo mais rápido do que uma agulha
+cônica (ver Figura 7.21B). A porção de corte da agulha estende-se cerca de um terço
+do comprimento da agulha, e a porção remanescente é arredondada. As agulhas
+cônicas são utilizadas em tecidos mais delicados, como no caso das cirurgias oculares
+ou vasculares. Deve-se tomar cuidado com agulhas cortantes – se não forem usadas
+corretamente, podem seccionar o tecido lateral ao caminho da agulha. O material de
+sutura utilizado para cirurgia bucal costuma ser adquirido já embutido (fundindo-se a
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+extremidade de um fio de sutura a uma agulha) pelo fabricante.
+  Figura 7.18 O porta-agulha tem cabo com travamento e ponta curta e arredondada.
+
+  Figura 7.19 A. A pinça hemostática (superior) tem ponta fina e longa em comparação à ponta do
+  porta-agulha (inferior) e por isso não deve ser utilizada para a sutura. B. A face interna da ponta do
+  porta-agulha é mais curta e hachurada, a fim de garantir a preensão da agulha (à esquerda). Já a da
+  pinça hemostática tem sulcos paralelos que não possibilitam um controle sobre a agulha (à direita).
+
+  Figura 7.20 Segura-se o porta-agulha utilizando o polegar e o dedo anelar nos anéis do instrumento
+  (A) e os dedos indicador e médio para controlar o instrumento (B). Mantém-se a curvatura da agulha
+  a cerca de dois terços da distância entre a ponta e a base da agulha (Figura 7.22). Isso possibilita
+  que uma quantidade suficiente da agulha seja exposta e passe através do tecido, fazendo com que o
+  porta-agulha agarre a agulha em sua porção mais forte e impeça seu dobramento ou a perda do
+  corte na ponta. As técnicas de sutura são discutidas mais detalhadamente no Capítulo 8.
+
+Há muitos tipos de materiais de sutura. Os materiais são classificados pelo diâmetro,
+pela capacidade de reabsorção e pelo fato de serem mono ou polifilamentares. O
+tamanho do fio de sutura refere-se a seu diâmetro e é designado por uma série de
+zeros. O diâmetro mais utilizado na sutura de mucosa bucal é 3-0 (000). A sutura de
+maior porte é 2-0 ou 0. Os tamanhos menores são designados com mais zeros (p. ex.,
+4-0, 5-0 e 7-0). Em geral, as suturas de tamanho muito fino, como 7-0, são utilizadas
+em locais bem visíveis na pele – por exemplo, no rosto – porque, se forem aplicadas
+adequadamente, suturas menores costumam causar menos cicatrizes. As suturas de
+tamanho 3-0 são grandes o suficiente para suportar a tensão intrabucal colocada
+sobre elas e fortes o bastante para amarrar mais facilmente o nó com um
+porta agulha em comparação com suturas de menor diâmetro. As suturas podem ser
+reabsorvíveis ou não reabsorvíveis. Exemplos de materiais de sutura não
+reabsorvíveis são: náilon, seda, vinil e aço inoxidável, entre outros. A sutura não
+reabsorvível mais comumente utilizada na cavidade bucal é a de seda. Náilon, vinil e
+aço inoxidável raramente são utilizados na boca. Suturas reabsorvíveis são feitas
+principalmente de intestino. Embora o termo categute seja frequentemente
+empregado para designar esse tipo de sutura, na verdade a tripa deriva da superfície
+serosa do intestino de ovelha. O categute liso é reabsorvido rapidamente na cavidade
+bucal. Raramente dura mais do que 3 a 5 dias. O intestino tratado com solução de
+curtimento (ácido crômico) é chamado de intestino crômico e dura mais que o
+intestino normal – de 7 a 10 dias. Há várias suturas absorvíveis sintéticas também.
+Esses materiais consistem em longas cadeias de polímeros trançadas em material de
+sutura. São exemplos o ácido poliglicólico e o ácido polilático. Estes são reabsorvidos
+lentamente, o que leva até 4 semanas para acontecer. Tais suturas reabsorvíveis de
+longa duração são raramente indicadas para cirurgia bucal básica.
+  Figura 7.21 A. Comparação de agulhas usadas na cirurgia bucal. Em cima, agulha C-17, que
+  geralmente tem o tamanho 4-0. No meio, agulha PS-2. Embaixo, SH. Todas são agulhas de corte, e o
+  material de sutura está embutido na agulha. B. A ponta da agulha utilizada para sutura
+  mucoperiosteal mostra-se triangular em corte transversal para torná-la uma agulha de corte.
+
+  Figura 7.22Oporta-agulhaprendeaagulhacurvacomdoisterçosdedistância apartirdapontadaagulha.
+
+  Figura 7.23 Deve-se segurar a tesoura de sutura do mesmo modo que o porta agulha. Por fim, as
+  suturas são classificadas por serem mono ou polifilamentares. Suturas monofilamentares são
+  aquelas como intestino simples e crômico, náilon e aço inoxidável. As suturas de polifilamentos são
+  suturas trançadas, como a seda, o ácido poliglicólico e o ácido polilático. Suturas feitas de material
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  trançado são mais fáceis de manusear e amarrar que as monofilamentares e, raramente, vêm
+  soltas. Em geral, as extremidades de corte são macias e não irritantes para a língua e os tecidos
+  moles adjacentes. No entanto, por causa dos múltiplos filamentos, elas tendem a “absorver” fluidos
+  bucais ao longo da sutura para os tecidos subjacentes. Essa absorção pode transportar bactérias
+  junto com a saliva. Suturas de monofilamento não causam essa absorção, mas podem ser mais
+  difíceis de amarrar e tendem a se
+
+soltar. Além disso, as extremidades cortadas são mais rígidas – portanto, mais
+irritantes para a língua e os tecidos moles. Uma das suturas mais comumente
+utilizadas para a cavidade bucal é a seda preta 3-0. O tamanho 3-0 tem a quantidade
+adequada de força; a natureza polifilamentosa da seda torna mais simples amarrar e
+é bem tolerada pelos tecidos moles do paciente. A cor facilita a visualização da sutura
+quando o paciente retorna para a remoção. Suturas que seguram a mucosa juntas
+costumam ficar por mais de 5 a 7 dias, para que a ação lubrificante seja de pouca
+importância clínica. Muitos cirurgiões preferem a sutura crômica 3-0 para evitar a
+necessidade de removê-la mais tarde. (As técnicas de sutura e os tipos de nós são
+apresentados no Capítulo 8.) Os instrumentais finais necessários para se colocarem
+suturas são as tesouras (Figura 7.23). Elas costumam ter curtas arestas cortantes,
+pois seu único propósito é cortar as suturas. A tesoura de sutura mais comumente
+usada para a cirurgia bucal é a tesoura Dean, com cabos ligeiramente curvos e
+lâminas serrilhadas que fazem o corte das suturas mais facilmente. A tesoura de
+sutura geralmente tem cabos longos, além de encaixes para o polegar e para os
+demais dedos. Deve-se segurar a tesoura da mesma maneira que o porta-agulha.
+  Figura 7.24 Há dois modelos de tesoura de tecidos. As tesouras Iris (em cima) são pequenas e de
+  pontas afiadas. Já as tesouras Metzenbaum (embaixo) são mais longas e delicadas. Há tesouras
+  Metzenbaum com ponta afiada (mostrada aqui) ou com ponta arredondada.
+
+  Figura 7.25 A. O bloco de mordida é usado para manter a boca do paciente aberta na posição
+  escolhida por ele próprio. B. Os lados do bloco de mordida são corrugados a fim de proporcionar uma
+  superfície para os dentes se encaixarem. C. Os blocos vêm em vários tamanhos. Outros tipos de
+  tesoura são projetados para o corte de tecidos moles. Os dois principais tipos de tesoura de pele são
+  a Iris e a Metzenbaum (Figura 7.24), que podem ter lâminas retas ou curvas. A tesoura Iris é
+  pequena, de pontas afiadas – uma ferramenta suave para trabalhos delicados. A tesoura de
+  Metzenbaum é usada para divulsionar o tecido mole e para cortar. Elas podem ter pontas afiadas ou
+  arredondadas. Tesouras de tecidos, como a Iris ou a Metzenbaum, não devem ser utilizadas para
+  cortar suturas, pois o
+
+material de sutura cega as margens das lâminas e as torna menos eficazes e mais
+traumáticas durante o corte do tecido.
+
+Na realização de extrações de dentes mandibulares, é necessário apoiar a mandíbula
+para evitar o estresse sobre a articulação temporomandibular (ATM). Apoiar a
+mandíbula do paciente em um bloco de mordida ajudará a proteger a articulação. O
+bloco de mordida é exatamente o que o nome indica (Figura 7.25). Ele é macio,
+semelhante a uma borracha, onde o paciente pode descansar seus dentes. O paciente
+abre a boca em uma amplitude confortável e insere-se o bloco de mordida de
+borracha; o bloco mantém a boca na posição desejada, sem esforço por parte do
+indivíduo. Os blocos de mordida vêm em vários tamanhos, para caber na boca de
+pacientes de diversos tamanhos e produzir diferentes graus de abertura. Se o
+cirurgião dentista precisar de uma abertura maior da boca usando qualquer tamanho
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+de bloco de mordida, o paciente deve abrir a boca mais amplamente e o bloco de
+mordida deve ser posicionado mais para a parte posterior da boca. Para a maioria dos
+pacientes adultos, um bloco de mordida de tamanho pediátrico é adequado quando
+colocado sobre os dentes molares. O abridor de boca de ação lateral, ou abridor de
+boca de Molt (Figura 7.26), pode ser utilizado para abrir a boca de maneira mais
+ampla, se necessário. Tal suporte bucal tem ação do tipo catraca, abrindo-a mais
+amplamente conforme se fecha o cabo. Esse tipo de suporte deve ser utilizado com
+cuidado, devido à grande pressão que pode ser aplicada aos dentes e à ATM. Além
+disso, pode ocorrer lesão com o uso indiscriminado. Tal suporte é útil em pacientes
+que estejam profundamente sedados ou que apresentem formas leves de trismo.
+Sempre que um bloco de mordida ou um abridor de boca de ação lateral for usado, o
+cirurgião-dentista deve tomar cuidado para evitar abrir excessivamente a boca do
+paciente, pois pode causar estresse na ATM. Às vezes, isso pode resultar em lesão por
+estiramento na articulação, causando a necessidade de tratamento adicional. Quando
+são realizados procedimentos de longa duração, é uma boa ideia remover o suporte
+periodicamente e
+
+deixar o paciente mover a mandíbula e descansar os músculos durante um curto
+período.
+
+Para proporcionar uma visualização adequada, o sangue, a saliva e as soluções
+irrigantes devem ser removidas do local da cirurgia. O aspirador cirúrgico tem um
+orifício menor do que o tipo utilizado em Odontologia geral, para que se possa
+remover fluidos mais rapidamente do local cirúrgico, a fim de manter uma
+visualização adequada. Muitos desses aspiradores são projetados com vários orifícios,
+de modo que o tecido mole não seja sugado para o orifício de aspiração, causando
+lesão tecidual (Figura 7.27A). O aspirador Fraser tem um buraco na parte do cabo
+que pode ser coberto com a ponta dos dedos, conforme necessário. Quando se corta o
+tecido duro sob irrigação abundante, cobre-se o orifício para que a solução seja
+retirada rapidamente. Quando se aspira o tecido mole, o furo pode ser deixado
+descoberto para evitar lesões do tecido ou obstrução do tecido mole na ponta de
+aspiração (ver Figura 7.27B).
+
+Quando se colocam campos em torno de um paciente, pode-se mantê-los presos com
+uma pinça de campo (Figura 7.28). Tal instrumental tem uma cremalheira no cabo e
+anéis para o polegar e os demais dedos. As extremidades de ação da pinça de campo
+podem ser afiadas ou arredondadas. Aquelas com extremidades curvas penetram nos
+campos cirúrgicos. Quando se usa esse instrumental, o operador deve ter muito
+cuidado para não prender a pele subjacente do paciente.
+  Figura 7.26 O abridor de boca ou Molt pode ser usado para abrir a boca do paciente quando este se
+  mostra incapaz de cooperar, como durante a sedação ou quando há algum tipo de trismo.
+
+  Figura 7.27 A. A ponta de aspiração cirúrgica tem diâmetro pequeno. Normalmente, há um orifício
+  para evitar a lesão tecidual causada por pressão excessiva na aspiração. Em cima, desmontadas
+  para a limpeza. Embaixo, montadas para utilização. B. A ponta Fraser tem um dispositivo no punho
+  para proporcionar a quem o manipula mais controle sobre a quantidade de poder de aspiração.
+  Manter o polegar sobre o orifício aumenta a aspiração na ponta. Utiliza se um desentupidor metálico
+  para limpar a ponta quando partículas de osso ou dente se prendem durante a aspiração.
+
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  Figura 7.28 A pinça de campo é usada para manter o campo cirúrgico em posição. As pontas ativas
+  apreendem os campos, e os cabos com cremalheira mantêm o campo cirúrgico na posição. A pinça
+  mostra que não apresenta ponta penetrante. Pinças de campo com as pontas penetrantes e afiadas
+  também estão disponíveis.
+
+Ao usar uma peça de mão e uma broca para remover o osso, é essencial que a área
+seja irrigada com um fluxo constante de solução de irrigação, normalmente água ou
+soro fisiológico estéreis. A irrigação esfria a broca e evita o acúmulo de calor,
+prejudicial ao osso. A irrigação também aumenta a eficiência da broca, por lavar e
+retirar fragmentos de osso das estrias do instrumental, proporcionando certa
+quantidade de lubrificação. Além disso, uma vez completado o procedimento
+cirúrgico e antes de suturar o retalho mucoperiosteal de volta à posição, o campo
+operatório deve ser cuidadosamente irrigado. Uma grande seringa de plástico com
+agulha de ponta romba calibre 18 é comumente usada para a irrigação. Embora
+descartável, a seringa pode ser esterilizada várias vezes antes de ser descartada. A
+agulha deve ser sem corte e lisa, de modo a não danificar o tecido mole, além de ser
+inclinada para a direção mais eficiente do fluxo de irrigação (Figura 7.29).
+
+Um dos instrumentais mais importantes utilizados no processo de extração é a
+alavanca dentária. Utiliza-se esse instrumental para luxar (afrouxar) dentes do osso
+circundante. Afrouxar os dentes antes da aplicação do fórceps dental torna o
+procedimento mais simples. Ao elevar os dentes antes da aplicação do fórceps, o
+cirurgião-dentista pode minimizar a incidência de coroas, raízes e ossos quebrados.
+Por fim, a luxação de dentes é conveniente antes da aplicação do fórceps para
+facilitar a remoção de uma raiz fraturada. Isso porque o uso prévio de alavanca
+proporciona o afrouxamento da raiz no alvéolo dentário. Além de seu papel no
+afrouxamento dos dentes do osso circundante, alavancas dentárias também são
+utilizadas para expandir o osso alveolar. Ao expandir a cortical óssea
+vestibulocervical, o cirurgião facilita a remoção de um dente que tenha percurso
+limitado e obstruído para remoção. Por fim, as alavancas são usadas para remover as
+raízes fraturadas ou cirurgicamente seccionadas de seus alvéolos. Os três principais
+componentes da alavanca são o cabo, a haste e a lâmina (Figura 7.30). O cabo da
+alavanca costuma ser de tamanho generoso, para que seja manuseado
+confortavelmente para aplicar uma força substancial, porém controlada. A aplicação
+de uma força específica é fundamental para o uso correto de alavancas dentárias. Em
+alguns casos, utilizam-se alavancas com um cabo em cruz ou em forma de “T”. Esses
+instrumentais devem ser usados com muita cautela, pois podem gerar uma
+quantidade excessiva de força, o que pode fraturar o dente e os ossos (Figura 7.31).
+  Figura 7.29 Seringas grandes de plástico com ponta romba angular sem corte podem ser utilizadas
+  para irrigar a solução no local da cirurgia.
+
+  Figura 7.30 Os componentes principais de uma alavanca são o cabo, a haste e a lâmina.
+
+  Figura 7.31 Cabos em “T” são utilizados em algumas alavancas. Esse tipo de cabo pode gerar
+  grande quantidade de força e, portanto, deve ser usado com muita cautela.
+
+  Figura 7.32 A. Alavancas retas são os tipos mais comumente utilizados. B e C. A lâmina da alavanca
+  reta é côncava no lado de trabalho. A haste da alavanca simplesmente liga a alavanca para a parte
+  ativa, ou a lâmina. A haste costuma ser de tamanho substancial, e é suficientemente forte para
+  transmitir a força do cabo para a lâmina. A lâmina da alavanca é a parte ativa e utilizada para
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  transmitir a força para dentes, ossos ou ambos. A maior variação no tipo de alavancas está na forma
+  e no tamanho da lâmina. Os três tipos básicos de alavancas são: (1) o tipo reto; (2) o tipo de
+  triângulo ou em forma de flâmula; e (3) o tipo apical. A alavanca reta é a mais comumente usada
+  para luxar dentes (Figura 7.32A). A lâmina da frente da alavanca tem uma superfície côncava de um
+  lado, colocada para o dente a ser elevado (ver Figura 7.32B). A alavanca reta pequena, nº 301, é
+  frequentemente usada para iniciar a luxação de um dente erupcionado antes
+
+do uso do fórceps (Figura 7.33). As alavancas retas maiores são empregadas para
+descolar as raízes de seus alvéolos e luxar os dentes mais espaçados, uma vez que a
+alavanca reta de menor porte torna-se menos eficaz. A alavanca reta maior mais
+utilizada é a nº 34S, mas a nº 46 e a nº 77R também são usadas ocasionalmente.
+  Figura 7.33 Alavancas retas variam de tamanho, dependendo da largura da lâmina.
+
+  Figura 7.34 Alavancas triangulares (Cryer) são instrumentais em pares e, portanto, utilizados para as
+  raízes mesial ou distal.
+
+  Figura 7.35 A alavanca de Crane, ou apical, é um instrumento robusto usado para elevar raízes
+  inteiras ou, até mesmo, dentes após a preparação do ponto de apoio com uma broca.
+
+  Figura 7.36 O delicado elevador para ápices radiculares é usado para luxar o ápice radicular no
+  alvéolo. A ponta fina pode se quebrar ou dobrar, se o instrumento for utilizado de maneira
+  inadequada. A forma da lâmina da alavanca reta pode ser angulada a partir da haste, o que
+  possibilita a este instrumental uma utilização em partes mais posteriores da boca. Dois exemplos da
+  haste angulada da alavanca com uma lâmina semelhante à da alavanca reta são as alavancas de
+  Miller e Potts. O segundo tipo de alavanca mais comumente usado é o triangular (Figura 7.34). Essa
+  alavanca apresenta-se em pares: uma esquerda e outra direita. A alavanca triangular é mais útil
+  quando a raiz fraturada permanece no alvéolo do dente e o alvéolo adjacente está vazio. Um
+  exemplo típico seria quando há fratura de um primeiro molar inferior, deixando a raiz distal no
+  receptáculo, mas removendo a raiz mesial com a coroa. Coloca-se a ponta da alavanca triangular no
+  alvéolo, com a haste da alavanca apoiada na cortical óssea vestibular. A alavanca é então girada em
+  uma rotação de rodas
+
+e eixos, com a ponta afiada do elevador envolvendo o cemento da raiz distal
+remanescente. Então, gira-se a alavanca, e a raiz é removida. Existem diversos tipos
+e angulações de alavancas triangulares, mas a Cryer é a mais comum (os pares
+dessas alavancas são também comumente chamados de alavancas leste-oeste.) O
+terceiro tipo de alavanca utilizado com alguma frequência é a alavanca apical. Usa-se
+esse tipo de alavanca para remover raízes. A versão robusta da alavanca apical é a do
+tipo Crane (Figura 7.35). Esse instrumental é utilizado como alavanca para elevar
+uma raiz fraturada do alvéolo do dente. Normalmente, mostra-se necessário fazer um
+furo com uma broca (ponto de apoio) de, aproximadamente, 3 mm de profundidade
+na raiz na altura da crista óssea. A ponta da alavanca é então inserida no furo e, com
+a cortical vestibular do osso como um fulcro, eleva-se a raiz do alvéolo do dente. Às
+vezes, a ponta afiada pode ser usada sem a preparação de um ponto de apoio ao
+envolver o cemento ou a bifurcação do dente. O segundo tipo de alavanca apical é o
+elevador de ápice radicular (Figura 7.36). Esse elevador apical é um instrumental
+delicado usado para luxar pequenos ápices dentais de seus alvéolos. Enfatiza-se que
+este é um instrumental fino e não deve ser usado como roda-eixo ou alavanca, tipo
+Cryer ou Crane apical. A ponta da raiz é usada para luxar uma pequena extremidade
+da raiz de um dente, inserindo-se a ponta no espaço do ligamento periodontal entre a
+ponta da raiz e a parede do alvéolo. Esse instrumental funciona melhor em raízes
+deixadas após um dente estar bem elevado. Periótomos são instrumentais utilizados
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+para extração dentária preservando se a anatomia do alvéolo do dente. O princípio
+geral de sua utilização é cortar alguns dos ligamentos periodontais do dente, a fim de
+facilitar sua remoção. Existem vários tipos de periótomos com diferentes formas de
+lâmina (Figura 7.37).
+
+Insere-se a ponta da lâmina do periótomo no espaço do ligamento periodontal e
+avança-se por pressão no sentido apical, ao longo do eixo do dente. Ela avança cerca
+de 2 a 3 mm e, em seguida, é removida e reinserida em um local acessível adjacente.
+O processo continua em torno do dente, avançando-se gradualmente a profundidade
+da ponta do periótomo e progredindo-se apicalmente. Após a separação suficiente dos
+ligamentos periodontais, o dente é retirado com uma alavanca dental, um fórceps de
+extração ou ambos, tendo-se o cuidado de evitar a expansão excessiva ou a fratura do
+osso. Os fórceps de extração são instrumentos utilizados para remover o dente do
+osso alveolar. O ideal é que os fórceps sejam usados para auxiliar a alavanca na
+luxação dos dentes dos alvéolos, em vez de puxar os dentes de sua base. Quando
+apropriadamente utilizados, eles também podem ajudar a expandir o osso durante as
+extrações.
+  Figura 7.37 Periótomo com cabos e lâminas substituíveis. Outros tipos de periótomos têm lâminas
+  fixas ou são ligados a um motor. Há fórceps em muitos estilos e configurações para se adaptar à
+  variedade de dentes em que são usados. Cada tipo básico oferece diversas variações
+
+para coincidir com as preferências individuais do cirurgião. Esse tópico lida com os
+tipos básicos e fundamentais e discute brevemente algumas das variações. Os
+componentes básicos de um fórceps de extração dentária são os cabos, a dobradiça e
+a ponta (Figura 7.38). Em geral, os cabos são de tamanho adequado para serem
+usados confortavelmente e oferecer pressão e alavancagem suficientes para a
+remoção do dente; apresentam superfície serrilhada que possibilita uma apreensão
+positiva e evita o deslizamento. Os cabos dos fórceps são manuseados de maneiras
+diferentes, dependendo da posição do dente a ser removido. Os fórceps maxilares são
+manuseados com a palma da mão sob o fórceps de modo que a ponta seja direcionada
+para cima (Figura 7.39). Os fórceps utilizados para remover dentes mandibulares são
+manuseados com a palma da mão sobre o fórceps de maneira que a ponta seja
+direcionada para baixo, na direção dos dentes (Figura 7.40). Os cabos dos fórceps
+geralmente são retos, mas podem ser curvos para proporcionar ao operador melhor
+ajuste (Figura 7.41). A dobradiça do fórceps, como a haste da alavanca, é apenas um
+mecanismo para conectar os cabos à ponta. A articulação transfere e concentra a
+força aplicada aos cabos para a ponta. Existe uma diferença distinta de estilos: o tipo
+americano comum tem a dobradiça na direção horizontal e é usado como foi descrito
+(ver Figura 7.38). Já o tipo inglês tem a dobradiça vertical e o cabo vertical
+correspondente (Figura 7.42A). Dessa maneira, o cabo e a dobradiça do estilo inglês
+são usados com a mão na direção vertical de maneira oposta à direção horizontal (ver
+Figura 7.42B).
+  Figura 7.38 Componentes básicos do fórceps para exodontia. As pontas dos fórceps de extração
+  variam muito. Elas são projetadas para se adaptar à raiz do dente próximo à junção da coroa e da
+  raiz. Deve-se lembrar de que as pontas dos fórceps são projetadas para serem adaptadas à
+  estrutura da raiz do dente, e não para a coroa. Nesse sentido, diferentes pontas foram projetadas
+  para os dentes unirradiculares e os dentes de duas e três raízes. A variação é tal que as pontas se
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  adaptam às diversas formações de raiz, melhorando o controle da força do cirurgião-dentista na raiz
+  e diminuindo as chances de uma fratura. Quanto mais próximas as pontas dos fórceps ficarem das
+  raízes dos dentes, mais eficiente será a extração e menor a chance de resultados indesejados. Uma
+  variação no desenho final é a largura da ponta. Algumas pontas de fórceps são estreitas, porque sua
+  principal utilização é extrair dentes estreitos, como os incisivos. Outras pontas são mais largas, pois
+  os dentes para os quais foram projetadas são substancialmente mais largos, como os molares
+  inferiores. Fórceps delineados para remover um incisivo inferior podem, teoricamente, ser usados
+  para extrair um molar inferior, mas, por causa de suas pontas estreitas, são ineficazes para esse
+  objetivo. Da mesma maneira, o fórceps molar mais largo não se adapta ao espaço estreito ocupado
+  pelos incisivos inferiores. Portanto, não pode ser usado nessa situação sem danos para os dentes
+  adjacentes.
+
+  Figura 7.39 Os fórceps utilizados para remover dentes superiores são segurados com a palma da
+  mão sob o cabo.
+
+  Figura 7.40 A. Seguram-se os fórceps utilizados para remover os dentes mandibulares com a palma
+  da mão em cima dele. B. Consegue- se uma aderência mais firme para a entrega de maior
+  quantidade de força de rotação movendo-se o polegar em torno e por baixo do cabo.
+
+  Figura 7.41 Os cabos retos costumam ser os preferidos, mas alguns cirurgiões usam os cabos
+  curvos.
+
+  Figura 7.42 A. Um cabo de estilo inglês tem a dobradiça na direção vertical. B. Segura-se esse tipo
+  de fórceps na direção vertical. As pontas do fórceps são anguladas, de modo a serem posicionadas
+  paralelamente ao longo do eixo do dente, com o cabo em uma posição confortável. Por isso, as
+  pontas de fórceps para maxila são geralmente paralelas aos cabos. Os fórceps para molares
+  superiores têm a forma de baioneta, para que o cirurgião-dentista alcance o aspecto posterior da
+  boca
+
+confortavelmente e ainda mantenha as pontas paralelas ao eixo do dente. As pontas
+de fórceps mandibulares costumam ser fixadas perpendicularmente aos cabos, o que
+possibilita ao cirurgião-dentista chegar aos dentes inferiores e manter uma posição
+confortável e controlada. A remoção dos dentes superiores requer o uso de
+instrumentos concebidos para os dentes unirradiculares e para aqueles com três
+raízes. Incisivos, caninos e pré-molares são considerados dentes unirradiculares. O
+primeiro pré-molar frequentemente tem raiz bifurcada, porém, como isso só ocorre
+no terço apical, não tem influência no desenho do fórceps. Os molares superiores têm
+raízes trifurcadas. Assim, há um fórceps de extração que vai adaptar-se a essa
+configuração. Após a elevação adequada, dentes superiores unirradiculares
+costumam ser removidos com um fórceps universal para superiores, em geral de nº
+150 (Figura 7.43). O fórceps nº 150 tem discretamente a forma de S quando visto de
+lado, e essencialmente reta quando visto de cima. As partes curvas de um fórceps
+encontram-se apenas na ponta. A ligeira curvatura do fórceps nº 150 possibilita ao
+cirurgião alcançar confortavelmente não só os incisivos, mas também os pré-molares.
+A ponta ativa dos fórceps nº 150 vem em um estilo que tem sido ligeiramente
+adaptado para formar o fórceps de nº 150A (Figura 7.44). O fórceps nº 150A é útil
+para a extração de pré-molares superiores e não deve ser utilizado para extrair os
+incisivos, devido à sua má adaptação às raízes dos incisivos. Além dos fórceps nº 150,
+há também os retos. Os fórceps nº 1 (Figura 7.45), que podem ser utilizados para
+incisivos e caninos, são mais fáceis de usar em comparação com o fórceps nº 150
+para os incisivos superiores. Os molares superiores são dentes de três raízes com
+apenas uma raiz palatina e uma bifurcação bucal. Portanto, um fórceps
+especificamente adaptado para encaixar os molares superiores deve ter superfície
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+lisa,
+
+côncava para a raiz palatina, e um bico pontiagudo, com formato que se encaixe na
+bifurcação bucal. Isso exige que os fórceps molares venham em pares: um esquerdo e
+um direito. Além disso, a ponta do fórceps molar superior deve ser deslocada para
+que o cirurgião alcance a face posterior da boca e permaneça na posição correta. Os
+fórceps molares mais comumente utilizados são os de nº 53 para a direita e para a
+esquerda (Figura 7.46). Tais fórceps são projetados para se adaptar anatomicamente
+ao redor da ponta palatina, e as pontas bucais encaixam-se na bifurcação bucal. A
+ponta é compensada para proporcionar um bom posicionamento do cirurgião.
+  Figura 7.43 A. Vista superior do fórceps nº 150. B. Vista lateral do fórceps nº 150. C e D. Fórceps nº
+  150 adaptados ao incisivo central superior.
+
+  Figura 7.44 A. Vista superior do fórceps nº 150A. B. Os fórceps nº 150A têm pontas ativas paralelas
+  que não se tocam, ao contrário das pontas ativas do fórceps nº 150. C. Adaptação do fórceps nº
+  150A para o pré-molar superior.
+
+  Figura 7.45 A. Vista superior do fórceps nº 1. B e C. Fórceps nº 1 adaptado para o incisivo. Nota-se a
+  variação do projeto nos fórceps nº 88 direito e esquerdo, que apresentam pontas com as
+  extremidades mais longas e acentuadas (Figura 7.47). Eles são úteis sobretudo para molares
+  superiores com coroas
+
+gravemente cariadas. As pontas ativas pontiagudas podem alcançar mais
+profundamente a trifurcação até tocarem na dentina. A principal desvantagem é que
+destroem a crista alveolar óssea e, quando utilizados em dentes hígidos sem a devida
+cautela e a elevação apropriada, podem fraturar grande quantidade de osso alveolar
+bucal.
+  Figura 7.46 A. Vista superior do fórceps nº 53L. B. Vista oblíqua do fórceps nº 53L. C. Direita, nº 53L;
+  esquerda, nº 53R. D e E. Fórceps nº 53L adaptado para o molar superior.
+
+  Figura 7.47 A. Vista superior do fórceps nº 88L. B. Vista lateral do fórceps nº 88L. C. Fórceps nº 88R
+  adaptado ao molar superior.
+
+  Figura 7.48 A. Vista superior do fórceps nº 210S. B. Vista lateral do fórceps nº 210S. C. Fórceps nº
+  210S adaptado ao molar superior. Às vezes, os segundos molares superiores e os terceiros molares
+  em erupção têm apenas uma raiz cônica. Nessa situação, fórceps com pontas ativas lisas e amplas
+  com curvatura do cabo podem ser úteis. O fórceps nº 210S está exemplificado na Figura 7.48.
+  Nota-se outra variação no modelo do fórceps molar compensado com uma ponta ativa muito
+  estreita. Tais fórceps são utilizados, principalmente, para remover as raízes fraturadas de
+
+molares superiores, mas podem ser usados para a remoção dos pré-molares estreitos
+e incisivos inferiores. Esses fórceps, os de nº 65, também são conhecidos como
+fórceps apicais (Figura 7.49). Uma versão menor do fórceps nº 150, o de nº 150S, é
+útil para a remoção de dentes decíduos (Figura 7.50). Esse fórceps adapta-se bem a
+todos os dentes superiores decíduos e pode ser usado como fórceps universal para
+dentes decíduos. A extração de dentes mandibulares requer um fórceps que pode ser
+usado para dentes unirradiculares como os incisivos, caninos e pré-molares, bem
+como para os dentes com duas raízes, como os molares. O instrumental mais
+comumente usado para os dentes unirradiculares é o fórceps inferior universal ou o
+nº 151 (Figura 7.51). Esse fórceps tem cabos de forma semelhante ao fórceps nº 150,
+mas as pontas são direcionadas inferiormente para os dentes inferiores. As pontas
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+são lisas e estreitas e tocam-se apenas nas extremidades. Isso possibilita que a ponta
+se encaixe na linha cervical do dente para abarcar a raiz. Os fórceps nº 151A foram
+ligeiramente adaptados para dentes pré molares inferiores (Figura 7.52). Esse tipo
+de fórceps não deve ser utilizado em outros dentes inferiores, pois seu formato
+impede a adaptação às raízes dos dentes.
+  Figura 7.49 A. Vista superior do fórceps nº 65. B. Vista lateral do fórceps nº 65. C. Fórceps nº 65
+  adaptado à raiz fraturada.
+
+  Figura 7.50 Os fórceps nº 150S (embaixo) são uma versão menor dos fórceps nº 150 (em cima) e
+  são utilizados em dentes decíduos. O modelo inglês de fórceps com dobradiça vertical pode ser
+  usado para os dentes unirradiculares na mandíbula (Figura 7.53). Consegue-se uma grande força
+  com esses fórceps. A não ser que se tenha muito cuidado, a incidência de fratura radicular é maior
+  com tal instrumento. Os molares inferiores são bifurcados. Os dentes de duas raízes possibilitam o
+  uso de fórceps que anatomicamente se adaptam ao dente. Já que a bifurcação está nos lados da
+  boca e da língua, apenas um único fórceps molar é necessário para ambos os lados, ao contrário da
+  maxila, para a qual se exige um conjunto de fórceps molares direito e esquerdo. O fórceps molar
+  inferior mais utilizado é o de nº 17 (Figura 7.54). Esse fórceps geralmente tem cabos retos, e as
+  pontas ativas são fixadas obliquamente para baixo. As pontas apresentam extremidades
+  pontiagudas no centro para que sejam encaixadas na bifurcação de dentes molares inferiores. O
+  restante da parte ativa adapta-se bem aos lados da bifurcação. Por causa de suas pontas, os fórceps
+  nº 17 não podem ser utilizados em dentes molares cujas raízes se fundem, tornando-se cônicas.
+  Para essa finalidade, utilizam-se os fórceps nº 151. A maior variação de modelos em fórceps molares
+  inferiores é o nº 87, os chamados fórceps chifre de vaca (Figura 7.55). Esses instrumentais são
+  projetados com duas pontas, longas e pontiagudas, que entram na bifurcação
+
+de molares inferiores. Após colocar o fórceps na posição correta, geralmente
+enquanto os cabos são bombeados suavemente para cima e para baixo, o dente é
+realmente elevado, apertando-se os cabos do fórceps com força. Como as pontas
+ativas são espremidas para a bifurcação, eles usam as tábuas corticais bucal e lingual
+como fulcros, e o dente pode ser literalmente espremido para fora do alvéolo. Tal
+como acontece com o modelo inglês de fórceps, o uso impróprio do chifre de vaca
+pode resultar em um aumento da incidência de efeitos indesejáveis, como fraturas de
+osso alveolar ou dano dos dentes superiores, se o fórceps não for adequadamente
+controlado pelo cirurgião-dentista quando os molares saírem do alvéolo. Um
+cirurgião dentista inexperiente deve, portanto, utilizar o fórceps chifre de vaca com
+cautela.
+  Figura 7.51 A. Vista superior do fórceps nº 151. B. Vista lateral do fórceps nº 151. C. Fórceps nº 151
+  adaptado ao incisivo inferior.
+
+  Figura 7.52 A. O fórceps nº 151A tem pontas paralelas que não se adaptam bem às raízes da maioria
+  dos dentes, ao contrário das pontas do fórceps nº 151. B. Fórceps nº 151A adaptado a um dente
+  molar inferior. Nota-se a falta de adaptação de fecho nas extremidades das partes ativas para a raiz
+  do dente.
+
+  Figura 7.53 A. Vista lateral do fórceps de estilo inglês. B. Fórceps adaptado para a parte inferior dos
+  pré-molares. Os fórceps nº 151 também foram adaptados para dentes decíduos. Os de nº 151S
+  apresentam o mesmo modelo geral que os de nº 151, mas foram reduzidos para se adaptar aos
+  dentes decíduos. Esses fórceps são adequados para a remoção de todos os dentes inferiores
+  decíduos (Figura 7.56).
+
+Muitos cirurgiões-dentistas acham prático usar o método de bandeja para montar
+instrumentais que serão utilizados para tipos específicos de procedimentos.
+Conjuntos-padrão de instrumentais são embalados, esterilizados e, em seguida,
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+abertos na cirurgia. O “pacote” típico de extração básica inclui uma seringa de
+anestesia local, uma agulha, um tubete de anestesia local, um elevador de periósteo
+de nº 9, uma cureta periapical, alavancas retas pequena e grande, um par de pinças
+para algodão, uma pinça hemostática curva, uma pinça de campo, um afastador de
+Austin ou de Minnesota, uma ponta de aspiração e compressas de gaze 5 × 5 cm ou
+7,5 × 7,5 cm (Figura 7.57). Os fórceps necessários seriam adicionados a essa bandeja
+depois de aberta. Uma bandeja para extrações cirúrgicas inclui os itens da bandeja
+para exodontia básica e mais um porta-agulha, um fio de sutura, uma tesoura de
+sutura, um cabo e uma lâmina de bisturi, pinça de tecido de Adson, uma lima para
+osso, um afastador de língua, um par de alavancas Cryer, uma pinça goiva e uma
+peça de mão e uma broca (Figura 7.58). Tais instrumentais possibilitam a incisão e o
+descolamento do tecido mole, a remoção de osso, a odontossecção, a remoção de
+raízes, o desbridamento da ferida e a sutura do tecido mole. A bandeja de biopsia
+inclui a bandeja básica (menos as alavancas), um cabo de lâmina e uma lâmina, um
+porta-agulha e sutura, uma tesoura de sutura, uma tesoura de tecido, uma pinça de
+Allis, uma pinça de Adson e uma pinça hemostática curva (Figura 7.59). Tais
+instrumentais possibilitam incisão, dissecção de um espécime de tecido mole e
+fechamento das feridas com suturas. A bandeja de pós-operatório tem os
+instrumentais necessários para irrigar o sítio cirúrgico e remover suturas (Figura
+7.60). Em geral, a bandeja inclui tesouras, pinça de algodão, seringa de irrigação,
+hastes de algodão, gaze e ponta de aspiração.
+
+Os instrumentais podem ser colocados em uma bandeja plana, embalados com papel
+de esterilização e esterilizados. Quando pronta para uso, leva-se a bandeja para a
+mesa operatória e abre-se de modo a preservar a esterilização do instrumental, e os
+instrumentais são utilizados da bandeja. Esse sistema requer uma grande autoclave
+para acomodar a bandeja. Como alternativa, os estojos de metal podem ser utilizados
+no lugar de bandeja. Os estojos são mais compactos, mas também devem ser forrados
+com papel esterilizado.
+  Figura 7.54 A. Vista superior do fórceps para molares de nº 17. B. Vista lateral do fórceps para
+  molares de nº 17. C e D. Fórceps nº 17 adaptado ao molar inferior.
+
+  Figura 7.55 A. Vista superior do fórceps chifre de vaca nº 87. B. Vista lateral do fórceps chifre de
+  vaca. C e D. Fórceps chifre de vaca adaptado ao molar inferior.
+
+  Figura 7.56 Os fórceps nº 151S (embaixo) são a versão menor dos nº 151 (em cima) e são usados
+  para extrair dentes decíduos.
+
+  Figura 7.57 Bandeja básica para extração.
+
+  Figura 7.58 A bandeja de extração cirúrgica reúne a instrumentação necessária para refazer retalhos
+  de tecidos moles, retirar ossos, seccionar dentes, recuperar raízes e suturar os retalhos de volta à
+  posição.
+
+  Figura 7.59 A bandeja de biopsia reúne os equipamentos necessários para remover o espécime do
+  tecido mole e as feridas fechadas por sutura.
+
+  Figura 7.60 A bandeja de pós-operatório reúne os instrumentais necessários para remover suturas e
+  irrigar a boca.
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+Capítulo 8
+James R. Hupp
+
+Texto reconstituído a partir de extração em texto simples: figuras e títulos de seção do original não estão
+presentes; as legendas das figuras foram mantidas.
+
+
+Aextração de um dente combina os princípios de cirurgia e de mecânica da física
+elementar. Quando tais princípios são aplicados corretamente, o dente pode ser
+removido do processo alveolar até por alguém não muito forte e sem usar força
+inadequada ou causar sequelas. Este capítulo apresenta os princípios cirúrgicos e
+mecânicos relacionados a extrações dentárias não complicadas. Além disso, tem uma
+descrição detalhada das técnicas de remoção de dentes específicos com
+instrumentais apropriados. Nos dentes totalmente erupcionados, como a coroa já está
+
+“fora” do osso, a extração dentária concentra-se na extração da raiz. Seguir esse
+conceito evita que o cirurgião se concentre em usar a força nas coroas para retirar os
+dentes. Ignorar esse conceito costuma resultar em fraturas das coroas ou raízes ou
+do osso ao redor das raízes. A extração dentária adequada não necessita de uma
+grande quantidade de força. Ao contrário, quando feita apropriadamente, é
+executada com delicadeza. A extração de dente erupcionado envolve o uso de força
+controlada de maneira que o dente não seja puxado para fora do osso, mas, sim,
+levantado delicadamente de seu alvéolo. Durante o planejamento pré extração,
+avalia-se previamente o grau de dificuldade para a remoção de um dente específico.
+Se tal avaliação levar o cirurgião a acreditar que o grau de dificuldade será alto ou se
+as tentativas iniciais de remoção do dente confirmarem essa hipótese, uma
+abordagem cirúrgica intencional – não uma aplicação excessiva de força – deve ser
+efetuada. A força excessiva pode lesionar o tecido mole local e prejudicar o osso e os
+dentes ao redor. Tal força pode fraturar a coroa, em geral tornando a extração
+substancialmente mais difícil do que teria sido se fosse feita de outra maneira. Além
+disso, força excessiva e pressa durante a extração aumentam o desconforto e a
+ansiedade operatória e pós-operatória do paciente.
+
+Quando o cirurgião estiver conduzindo a avaliação pré-operatória, é importantíssimo
+que examine a condição clínica do indivíduo. Os pacientes podem ter vários
+problemas de saúde que necessitam de modificação de tratamento ou
+acompanhamento clínico anterior para que a cirurgia seja feita de maneira segura.
+Podem ser necessárias medidas especiais para controlar o sangramento, diminuir a
+chance de infecção ou evitar uma emergência clínica. Essas informações foram
+discutidas detalhadamente no Capítulo 1, o qual inclui dados sobre especificações de
+alteração do tratamento cirúrgico por motivos clínicos.
+
+Extraem-se dentes por diversas razões. Este tópico discute a variedade de indicações
+gerais para a remoção do dente. Tais indicações são apenas guias, e não regras
+absolutas. Talvez a razão mais comum e amplamente aceita para remover um dente é
+que ele esteja tão cariado que não possa ser restaurado. A dimensão de até onde o
+dente está cariado e seja considerado não restaurável é uma decisão a ser tomada
+
+
+
+                          Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+entre o dentista e o paciente. Às vezes, a complexidade e o custo necessários para
+salvar um dente gravemente cariado também torna a extração uma escolha razoável.
+Isso é sobretudo verdadeiro diante da disponibilidade das bem-sucedidas próteses
+implantossuportadas. Um segundo motivo para extração dentária consiste na necrose
+pulpar, ou pulpite irreversível, em que não se indica a endodontia. Isso pode ser
+resultado de o paciente recusar o tratamento endodôntico ou quando o dente tem um
+canal radicular tortuoso, calcificado e não tratável por técnicas endodônticas
+convencionais. Também inclui-se nessa categoria de indicações gerais o caso em que
+o tratamento endodôntico foi feito, mas falhou em aliviar a dor ou conseguir
+drenagem e o paciente não deseja retratar. Uma razão comum para a extração
+dentária é a doença periodontal extensa e grave. Se a periodontite grave do adulto
+existir há algum tempo, serão encontradas ampla perda óssea e mobilidade dental
+irreversível. Nessas
+
+situações, o dente com excesso de mobilidade deve ser extraído. Além disso, uma
+perda óssea periodontal ativa pode prejudicar a chance de colocação imediata de
+implantes, tornando a extração um passo sensível mesmo antes de o dente se tornar
+moderada ou gravemente mole. Frequentemente, pacientes que estão prestes a
+passar por correção ortodôntica de dentição apinhada com comprimento de arco
+insuficiente precisam de extração de dentes para gerar espaço para alinhamento
+dentário. Os dentes mais comumente extraídos são os pré-molares superiores e
+inferiores, mas um incisivo inferior, às vezes, pode precisar ser extraído pela mesma
+razão. Convém muito cuidado para confirmar se a extração se mostra realmente
+necessária e que o dente ou os dentes corretos sejam removidos se é outro
+profissional que fez a indicação, que não o cirurgião que está fazendo as extrações.
+Pode-se indicar a extração de dentes mal posicionados em algumas situações. Caso
+traumatizem tecido mole e não possam ser reposicionados por tratamento
+ortodôntico, devem ser extraídos. Um exemplo comum disso é o terceiro molar
+superior, que erupciona em posições vestibulares e causa ulceração e traumatismo do
+tecido mole e da bochecha. Outro exemplo são os dentes mal posicionados que estão
+extruídos devido à perda dos dentes no arco oposto. Se a reabilitação protética for
+feita no arco oposto, esses dentes podem interferir na construção de uma prótese
+adequada. Nessa situação, deve-se considerar a extração do dente mal posicionado.
+Uma indicação incomum para extração é um dente com coroa ou raiz fraturada. O
+dente fraturado pode estar doendo e não passível de ser tratado
+
+por uma técnica mais conservadora. Frequentemente, os dentes fraturados já
+passaram por tratamento endodôntico em algum momento, o que tende a tornar a
+coroa e a raiz mais frágeis e difíceis de serem removidas. Convém considerar a
+extração cirúrgica de dentes inclusos, se estiver claro que um dente parcialmente
+incluso não esteja apto a irromper em oclusão funcional devido a espaço inadequado,
+interferência de dentes adjacentes ou alguma outra razão. Ver Capítulo 10 para uma
+discussão mais aprofundada sobre este tópico. Os dentes supranumerários são
+normalmente inclusos e devem ser removidos. Um dente supranumerário pode
+interferir com a erupção dos dentes que o sucedem e tem o potencial de causar
+reabsorção e fazer com que fiquem mal posicionados. Os dentes envolvidos em lesões
+
+
+
+                    Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+patológicas podem precisar de remoção. Isso costuma ser visto em cistos
+odontogênicos. Em algumas situações, o dente ou os dentes podem ser mantidos e o
+tratamento endodôntico pode ser executado. Entretanto, se a manutenção do dente
+comprometer a completa remoção cirúrgica da lesão quando ela for fundamental, o
+dente então deve ser removido. Pacientes que estão recebendo radioterapia para
+câncer bucal, na cabeça ou no pescoço devem considerar a remoção dos dentes que
+estão na direção da radiação, sobretudo se estes estiverem comprometidos de alguma
+maneira.
+
+Entretanto, muitos desses dentes podem ser mantidos com devido cuidado. Consultar
+o Capítulo 19 para uma discussão mais profunda dos efeitos da radioterapia nos
+dentes e maxilares. Às vezes, pacientes que sofrem fratura de mandíbula ou do
+processo alveolar precisam ter dentes removidos. Em algumas situações, o dente
+envolvido na linha de fratura pode ser mantido, mas se o dente estiver comprometido
+ou infectado ou gravemente luxado no tecido ósseo circundante ou interferir na
+redução e na fixação da fratura, indica-se sua remoção. A indicação final para a
+remoção dentária está relacionada com a situação financeira do paciente. Todas as
+razões para extração já mencionadas podem se tornar mais fortes se o paciente não
+estiver com vontade ou não puder, financeiramente, decidir-se por manter o dente. A
+incapacidade do indivíduo de pagar pelo procedimento pode fazer com que ele decida
+pela remoção do dente. Além disso, a restauração com implantes tem normalmente
+uma relação custo-benefício mais eficaz para o paciente do que a manutenção de um
+dente comprometido.
+
+Mesmo que um determinado dente apresente um dos requisitos para remoção, em
+algumas situações ele não deve ser removido, seja por outros fatores ou por
+contraindicações para a extração. Esses fatores, assim como as indicações, são
+relativos. Em certas situações, a contraindicação pode ser modificada pelo emprego
+de cuidados ou tratamentos adicionais; assim, a extração indicada pode ser feita. Em
+outras situações, entretanto, a contraindicação pode ser tão significativa que o dente
+não deve ser removido sem que se tomem precauções especiais. Em geral, as
+contraindicações são divididas em dois grupos: sistêmica e local. As contraindicações
+sistêmicas à cirurgia bucal de rotina são discutidas no Capítulo 1. Existem algumas
+contraindicações locais para a extração do dente. A mais importante e mais crítica é a
+história de radiação terapêutica por câncer. Extrações feitas em área de radiação
+podem resultar em osteorradionecrose e, por isso, a extração deve ser feita com
+extremo cuidado. O Capítulo 19 discute isso em detalhes. Dentes localizados em uma
+área de tumor, especialmente um tumor maligno, não devem ser extraídos. O
+procedimento cirúrgico para extração pode disseminar células malignas,
+despertando, assim, metástases locais. Pacientes com pericoronarite grave ao redor
+do terceiro molar mandibular não devem ter o dente extraído até a condição ter sido
+tratada. O tratamento não cirúrgico deve incluir irrigações e remoção do terceiro
+molar maxilar, se necessário, para aliviar o impacto do tecido mole edêntulo que
+cobre a inclusão mandibular. Alguns cirurgiões-dentistas também administram
+antibióticos. Se o terceiro molar for removido durante pericoronarite grave, a
+incidência de complicações aumenta. No entanto, se a
+
+
+
+                    Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+pericoronarite for moderada e o dente puder ser removido de maneira direta, a
+extração imediata poderá ser feita. Por fim, o abscesso dentoalveolar agudo deve ser
+mencionado. Muitos estudos em perspectiva deixaram bastante claro que se obtém a
+solução mais rápida para uma infecção resultante de necrose pulpar quando se
+remove o dente o mais rápido possível. Assim, a infecção aguda não é contraindicação
+para extração. Entretanto, talvez seja difícil extrair tal dente, pois o paciente pode
+não ser capaz de abrir a boca o suficiente em razão de trismo ou pode ser difícil
+conseguir a anestesia local profunda. Se acesso e anestesia forem viáveis, o dente
+deve ser removido o mais rapidamente possível. Por outro lado, também deve ser
+iniciada antibioticoterapia, além de se planejar a extração o mais brevemente
+possível.
+
+No período de exames pré-operatórios, os dentes a serem extraídos devem ser
+examinados cuidadosamente para verificar a dificuldade de extração. Vários fatores
+devem ser especificamente examinados para fazer o exame apropriado e o plano de
+tratamento. O primeiro fator a ser avaliado no exame pré-operatório é a extensão de
+abertura de boca do paciente. Qualquer limitação de abertura pode comprometer a
+habilidade de o cirurgião-dentista dar anestesia local ou executar uma extração de
+rotina. Se a abertura de boca do paciente estiver substancialmente comprometida, o
+cirurgião deve considerar uma abordagem cirúrgica ao dente em vez da extração de
+rotina com alavancas e fórceps. Isso requer colocar o indivíduo sob sedação profunda
+ou anestesia geral. Além disso, o cirurgião deve procurar pela causa da redução da
+abertura. As causas mais comuns são trismo associado a infecção ao redor dos
+músculos de mastigação, disfunção de articulação temporomandibular (ATM) e
+fibrose muscular. A localização e a posição do dente a ser extraído no arco dental
+devem ser examinadas. Um dente perfeitamente alinhado tem acesso normal para
+colocação de alavancas e fórceps. Entretanto, dentes apinhados ou mal posicionados
+podem apresentar dificuldades para o posicionamento dos fórceps normalmente
+usados na extração a ser realizada. Quando o acesso for um problema, pode ser
+necessário um fórceps diferente ou indicada uma abordagem cirúrgica.
+
+A mobilidade do dente a ser extraído pode ser avaliada no pré-operatório. Uma
+mobilidade maior que o comum costuma ser vista na doença periodontal grave. Se os
+dentes forem excessivamente moles, deve-se esperar uma remoção dentária não
+complicada, porém o manejo do tecido mole após a extração pode ser mais complexo
+(Figura 8.1A). Dentes com mobilidade menor que o normal devem ser avaliados
+cuidadosamente pela presença de hipercementose ou anquilose das raízes. A
+anquilose costuma ser vista em primeiros molares que estão retidos e se tornaram
+submergidos (ver Figura 8.1B). Além disso, observa-se anquilose ocasionalmente em
+dentes não vitais que tiveram tratamento endodôntico muitos anos antes da extração.
+Se o cirurgião-dentista acredita que o dente está anquilosado, é prudente planejar
+remoção cirúrgica do mesmo em vez de extração por fórceps. A hipercementose pode
+criar raízes bulbosas mais difíceis de se remover. A avaliação da coroa do dente antes
+da extração deve ser relacionada à presença de grandes cáries ou restaurações na
+coroa. Se grandes partes da coroa foram destruídas pela cárie, a probabilidade de a
+coroa se quebrar durante a extração é maior, causando mais dificuldade na remoção
+
+
+
+                    Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+do dente (Figura 8.2). Da mesma maneira, a existência de grandes restaurações de
+amálgama gera fraqueza da coroa, e a restauração provavelmente irá fraturar
+durante o processo de extração (Figura 8.3). Além disso, um dente tratado
+endodonticamente torna-se ressecado e frágil e desmorona facilmente quando se
+aplica alguma força. Nessas três situações, é fundamental que o dente seja elevado o
+máximo possível e que o fórceps só então seja aplicado o mais apicalmente possível
+para agarrar uma porção radicular intacta do dente em vez da coroa. Se o dente a ser
+extraído tiver grande acúmulo de tártaro, tal acúmulo deve ser removido com uma
+cureta ou um limpador ultrassônico antes da extração. As razões para isso são que o
+tártaro interfere na colocação
+
+apropriada do fórceps e que o cálculo fraturado pode contaminar o alvéolo vazio do
+dente quando este for extraído. O cirurgião-dentista deve também avaliar a condição
+dos dentes adjacentes. Se apresentarem grandes restaurações de amálgama ou
+coroas ou tiverem passado por tratamento endodôntico, é importante manter isso em
+mente quando as alavancas e os fórceps forem utilizados para luxar e remover os
+dentes indicados. Se os dentes adjacentes tiverem restaurações grandes, o
+cirurgião-dentista deve usar as alavancas com extremo cuidado, pois podem ocorrer
+fratura ou deslocamento das restaurações (Figura 8.4). O paciente deve ser
+informado no processo de obtenção do consentimento, antes do procedimento
+cirúrgico, sobre a possibilidade de danificar essas restaurações.
+
+É essencial que sejam feitas radiografias adequadas de todo dente a ser extraído. Em
+geral, as radiografias periapicais dão informação mais precisa e detalhada sobre o
+dente, suas raízes e o tecido ao redor. Frequentemente, usam-se radiografias
+panorâmicas, mas sua maior utilidade é para dentes inclusos em vez de dentes
+erupcionados.
+  Figura 8.1 A. Dente com doença periodontal grave com perda óssea e espaço do ligamento
+  periodontal alargado. Esse tipo de dente é fácil de ser extraído. B. Segundo molar inferior decíduo
+  retido sem o respectivo dente permanente. O molar está parcialmente submerso, e a probabilidade
+  de anquilose das raízes mostra-se grande.
+
+  Figura 8.2 Dentes com grandes lesões de cárie são mais suscetíveis à fratura durante a extração,
+  tornando sua remoção mais difícil.
+
+  Figura 8.3 Dentes com grandes restaurações de amálgama são mais propensos a serem frágeis e a
+  fraturarem quando se aplicam forças para extração.
+
+  Figura 8.4 Primeiro molar inferior. Se o molar for removido, o cirurgião deve tomar cuidado para não
+  fraturar o amálgama no segundo pré-molar com elevadores ou fórceps. Para que as radiografias
+  tenham seu máximo valor, elas devem respeitar certo critério. Devem, sobretudo, ser expostas
+  adequadamente, com acuidade adequada e bom contraste. O filme radiográfico ou o sensor devem
+  ser posicionados apropriadamente para que mostre todas as porções da coroa e das raízes do dente
+  sob consideração sem distorção (Figura 8.5). Se a imagem digital não for usada, a radiografia deve
+  ser processada apropriadamente, com boas fixação, secagem e montagem. A montagem deve ser
+  etiquetada com o nome do paciente e a data na qual o filme foi exposto. A radiografia deve ser
+  montada pelo método padronizado da American Dental Association (ADA), que é ver a radiografia
+  como se olhando para o paciente; o ponto elevado no filme fica virado para o
+
+observador. A radiografia deve ser razoavelmente atual para caracterizar a situação
+presente. Radiografias antigas com mais de 1 ano devem ser refeitas antes da
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+cirurgia. Por fim, exames de imagem não digitais devem ser montados em um
+negatoscópio que esteja visível ao cirurgião-dentista durante o procedimento.
+Imagens digitais também devem ser exibidas para que o cirurgião-dentista possa
+olhar para elas durante a extração sem precisar interromper a cirurgia ou
+desenluvar. Radiografias tiradas, mas que não estejam disponíveis durante a cirurgia,
+são de valor limitado.
+  Figura 8.5 Radiografia exposta adequadamente para a extração do primeiro molar inferior. A relação
+  do dente a ser extraído com os dentes adjacentes irrompidos e não irrompidos deve ser percebida.
+  Se o dente for decíduo, a relação de suas raízes com o dente sucessor abaixo deve ser
+  cuidadosamente considerada. Na extração do dente decíduo, pode ser possível danificar ou deslocar
+  o dente que está embaixo. Se a remoção cirúrgica de uma raiz ou parte de uma
+
+raiz for necessária, deve-se saber a relação entre a estrutura da raiz ou de dentes
+adjacentes. A remoção de osso deve ser feita criteriosamente sempre que necessário,
+mas é importante, acima de tudo, ser cuidadoso se as raízes adjacentes estiverem
+próximas à raiz que será removida. Quando estiver fazendo extrações dos molares
+superiores, é essencial estar ciente quanto à proximidade das raízes dos molares no
+assoalho do seio maxilar. Se apenas uma fina camada de osso existir entre o seio e as
+raízes dos molares, o potencial de perfuração do seio maxilar durante a extração
+aumenta. Assim, o plano de tratamento cirúrgico pode ser alterado para uma técnica
+de cirurgia aberta, com a divisão das raízes do molar superior em raízes individuais
+antes que o procedimento prossiga (Figura 8.6). O canal alveolar inferior pode se
+aproximar das raízes dos molares inferiores. Apesar de a remoção do molar
+erupcionado raramente afetar o canal alveolar inferior, se um dente incluso estiver
+para ser removido, é importante que o espaço entre as raízes dos molares e o canal
+seja examinado. Tal extração pode levar à lesão do canal e causar consequente
+prejuízo ao nervo alveolar inferior (Figura 8.7). Imagens de tomografia
+computadorizada (cone beam) são utilizadas nessas circunstâncias.
+  Figura 8.6 O dente molar superior imediatamente adjacente ao seio apresenta perigo maior de
+  exposição sinusal.
+
+  Figura 8.7 Dentes molares inferiores próximos ao canal alveolar inferior. A remoção do terceiro
+  molar é um procedimento com maior probabilidade de resultar em lesão do nervo.
+
+  Figura 8.8 Antes da extração de pré-molares que necessitam de um retalho cirúrgico, é essencial
+  saber a relação entre o forame mentoniano e os ápices das raízes. Observe a área radiolúcida no
+  ápice do segundo pré-molar, que representa o forame mentoniano. Radiografias feitas antes da
+  remoção do pré-molar inferior devem incluir o forame mentoniano. Um retalho cirúrgico pode ser
+  necessário para extrair uma raiz do pré-molar, e é essencial que o cirurgião-dentista saiba onde está
+  o forame mentoniano para evitar lesão ao nervo mentoniano durante o desenvolvimento do retalho
+  (Figura 8.8; ver também Figura 8.3). A avaliação radiográfica dos dentes a serem extraídos
+  provavelmente é o que mais contribui na determinação da dificuldade da extração. O primeiro fator
+  a se avaliar é o número de raízes do dente a ser extraído. A maioria dos dentes tem um número
+  típico de raízes; nesse caso, o plano cirúrgico pode ser levado de maneira habitual, mas muitos
+  dentes apresentam um número
+
+anormal de raízes. Se o número de raízes for conhecido antes da extração dentária,
+uma alteração no plano pode ser feita para evitar a fratura de alguma raiz adicional
+(Figura 8.9). O cirurgião deve conhecer a curvatura das raízes e o grau de
+divergência delas para planejar adequadamente o procedimento de extração. Raízes
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+de número habitual e tamanho normal podem divergir substancialmente e, assim,
+fazer com que a largura total das raízes seja tão grande que impeça a extração com
+fórceps. Em situações de excessos de curvatura com grande divergência, pode ser
+necessária a extração cirúrgica com planejamento de divisão da coroa (Figura 8.10).
+  Figura 8.9 Canino inferior com duas raízes. O conhecimento desse fato no pré operatório pode
+  resultar em uma extração menos traumática.
+
+  Figura 8.10Asraízesamplamentedivergentesdesseprimeiromolarsuperior tornamaextraçãomaisdifícil.
+
+  Figura 8.11 A curvatura das raízes deste dente é inesperada. Radiografias pré operatórias ajudam o
+  cirurgião a planejar a extração mais cuidadosamente.
+
+  Figura 8.12 A hipercementose aumenta a dificuldade dessas extrações, pois as raízes são maiores
+  no ápice que na região cervical. Provavelmente, a extração cirúrgica será necessária. A forma da
+  raiz individual deve ser levada em consideração. Raízes podem ser pequenas, de formato cônico, o
+  que a torna fácil de remover. Entretanto, raízes longas com curvaturas grandes e abruptas ou
+  ganchos na região apical são mais difíceis de remover. O cirurgião deve ter conhecimento das raízes
+  antes do procedimento para adequar seu plano cirúrgico (Figura 8.11). O tamanho da raiz deve ser
+  examinado. Dentes com raízes pequenas são mais fáceis de remover, em comparação com os de
+  raízes longas. Uma raiz longa e bulbosa, resultado de hipercementose, é ainda mais difícil de ser
+  removida. As radiografias periapicais de pacientes mais velhos devem ser examinadas
+  cuidadosamente por evidências de hipercementose, pois tal processo parece ser resultado do
+  envelhecimento (Figura 8.12). O cirurgião deve procurar por evidência de cárie que se estenda para
+  as raízes. As cáries radiculares podem enfraquecer substancialmente a raiz e
+
+deixá-la mais propensa à fratura quando a força do fórceps for aplicada (Figura 8.13).
+Deve-se avaliar a reabsorção radicular, interna ou externa, em exame radiográfico.
+Assim como as cáries radiculares, a reabsorção radicular enfraquece a estrutura da
+raiz e a deixa mais propensa à fratura. Pode-se considerar a extração cirúrgica em
+situações de reabsorção radicular extensa (Figura 8.14). Deve-se avaliar se o dente
+passou por terapia endodôntica prévia. Se houve tratamento endodôntico muitos anos
+antes da extração, pode haver anquilose do dente e a raiz pode estar frágil. Em
+ambas as situações, pode ser indicada a extração cirúrgica (Figura 8.15). O exame
+cuidadoso da radiografia periapical indica a densidade do osso circundante ao dente
+a ser extraído. O osso que está mais radiolúcido é, provavelmente, menos denso, o
+que torna a extração mais fácil. Entretanto, se o osso parece ser radiograficamente
+opaco (indicando densidade aumentada), com evidência de osteíte condensante ou
+outro processo similar de esclerose, a extração será mais difícil.
+  Figura 8.13 Cáries radiculares no primeiro pré-molar tornam a extração mais difícil, pois a fratura do
+  dente é provável. Percebe-se a hipercementose no segundo pré-molar.
+
+  Figura 8.14 A reabsorção interna da raiz torna a extração fechada quase impossível porque é quase
+  certo que ocorra fratura de raiz.
+
+  Figura 8.15 O dente tornou-se frágil por causa do tratamento endodôntico prévio. Sua remoção é
+  mais difícil. O osso circundante deve ser também examinado cuidadosamente para evidenciar
+  qualquer patologia apical. Dentes com polpas não vitais podem ter radiolucidez apical, que
+  significam granulomas ou cistos. Saber da existência de tais lesões é importante, uma vez que elas
+  devem ser removidas na hora da cirurgia (Figura 8.16).
+
+Os cirurgiões devem evitar a lesão inadvertida ou a transmissão de infecção a seus
+pacientes ou a si mesmos. Os princípios de precaução universal afirmam que todos os
+pacientes devem ser encarados como portadores de doenças transmissíveis pelo
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+sangue que possam infectar a equipe cirúrgica e os outros pacientes. Para evitar essa
+transmissão, luvas cirúrgicas, máscaras cirúrgicas e óculos com vedamento lateral
+são necessários. (Ver Capítulo 5 para uma discussão detalhada sobre este tópico.)
+Além disso, a maioria das autoridades recomenda que a equipe cirúrgica use jalecos
+de manga comprida, que devem ser trocados quando ficarem visivelmente sujos
+(Figura 8.17). Se o cirurgião-dentista tiver cabelos compridos, é essencial prendê-los
+e cobri-los com gorro cirúrgico. Uma grande falha na técnica de assepsia é deixar que
+o cabelo do cirurgião-dentista fique caindo no rosto do paciente. Antes de o paciente
+passar pelo procedimento cirúrgico, é necessário um mínimo de preparo. Um campo
+estéril deve ser colocado sobre o peito do paciente para diminuir o risco de
+contaminação (ver Figura 8.17). Antes da extração, alguns cirurgiões aconselham os
+pacientes a lavar suas bocas vigorosamente com antisséptico bucal, como a
+clorexidina. Isso reduz a contaminação bacteriana na boca do paciente até certo
+grau. Não está claro que efeito tal procedimento possa ter nos problemas
+pós-operatórios. Para evitar que dentes ou fragmentos de dentes caiam na boca do
+paciente e possam ser engolidos ou aspirados para os pulmões, muitos cirurgiões
+preferem colocar uma gaze de 4 × 4 polegadas [10 × 10 cm] parcialmente dobrada
+no fundo da boca. Tal procedimento serve como barreira para o caso de o dente
+escorregar do fórceps ou se quebrar com a força do instrumental. O dente será preso
+pela gaze, em vez de engolido ou aspirado. O cirurgião deve tomar cuidado para que
+a gaze não seja posicionada muito posteriormente, para não acionar o reflexo de
+vômito. O
+
+cirurgião deve explicar o propósito dessa proteção a fim de ganhar a aceitação do
+paciente e a cooperação para que a gaze seja posicionada.
+
+As posições do paciente, da cadeira e do cirurgião-dentista são fundamentais para o
+completo sucesso da extração. A melhor posição é a que seja confortável para o
+paciente e o profissional e possibilite que o cirurgião dentista tenha máximo controle
+da força exercida no dente do indivíduo por meio das alavancas e do fórceps. A
+posição correta gera estabilidade e suporte. Isso também faz com que o
+cirurgião-dentista mantenha os pulsos retos o bastante para fazer a força com o braço
+e os ombros, e não com os dedos ou as mãos. A força exercida pode, assim, ser
+controlada no caso de repentina perda de resistência por uma fratura de raiz ou do
+osso.
+  Figura 8.16 A. Radiolucidez periapical. O cirurgião deve estar atento a tal fato antes da extração
+  para o manejo correto. B. A radiolucidez periapical ao redor do pré-molar inferior representa o
+  forame mentoniano. O cirurgião deve estar ciente de que isso não é uma condição patológica. Uma
+  lâmina dura intacta em B, mas não em A.
+
+  Figura 8.17 O cirurgião está preparado para a cirurgia usando óculos de proteção, máscara e luvas.
+  Os cirurgiões devem estar com cabelos curtos ou presos e usar jalecos de manga comprida,
+  trocados diariamente, ou antes, se ficarem sujos. O paciente protege-se com um avental à prova
+  d’água. Normalmente, os dentistas ficam em pé durante as extrações. Então, a posição para o
+  cirurgião que trabalha em pé será descrita primeiro. As modificações necessárias para operar
+  sentado serão apresentadas depois. Além disso, as descrições das técnicas são para profissionais
+  destros. Os cirurgiões canhotos devem espelhar as instruções quando trabalhar nos vários
+  quadrantes. O erro mais comum que cirurgiões-dentistas cometem no posicionamento da cadeira
+  odontológica para extrações é mantê-la muito alta. Isso os obriga a operar com os ombros
+
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  levantados, tornando difícil
+
+exercer a quantidade certa de força para que o dente seja extraído de maneira
+correta. Também é cansativo para o cirurgião. Outro problema de posicionamento
+frequente é o dentista se inclinar sobre o paciente e colocar seu rosto perto da boca
+do indivíduo. Isso interfere na iluminação cirúrgica, é ruim para as costas e o pescoço
+do dentista e também interfere no posicionamento adequado do resto do corpo do
+profissional. Para a extração de dentes superiores, a cadeira deve ser inclinada para
+trás, a fim de que o plano oclusal dos dentes superiores esteja em um ângulo de 60°
+com o chão. Levantar as pernas do paciente ao mesmo tempo ajuda a melhorar seu
+conforto. A altura da cadeira deve ser tal que a boca do paciente esteja levemente
+abaixo do nível do cotovelo do dentista (Figura 8.18). Conforme mencionado
+anteriormente, profissionais inexperientes tendem a posicionar a cadeira muito alta.
+Durante a cirurgia no quadrante maxilar direito, a cabeça do paciente deve estar
+virada substancialmente na direção do cirurgião, a fim de que se alcancem acesso e
+visualização adequados (Figura 8.19). Para extração dos dentes na porção anterior do
+arco superior, o paciente deve estar olhando direto para a frente (Figura 8.20). A
+posição para a região superior esquerda do arco é similar, exceto que a cabeça do
+paciente está virada levemente na direção do cirurgião (Figura 8.21). Para a extração
+de dentes inferiores, o paciente deve estar em uma posição mais elevada para que,
+quando sua boca estiver aberta, o plano oclusal esteja paralelo ao chão (Figura 8.22).
+Um bloco de mordida de tamanho adequado deve ser considerado para estabilizar a
+mandíbula quando a extração com fórceps for utilizada. Mesmo que o cirurgião apoie
+a mandíbula, outro suporte gerado pelo bloco de mordida resultará em menos
+estresse e possibilitará ao paciente descansar os músculos da mastigação. Deve-se
+tomar cuidado para evitar usar um bloco de mordida muito grande, pois ele pode
+esticar demais os ligamentos da ATM e causar desconforto ao paciente. Tipicamente,
+blocos de mordida pediátricos são melhores, mesmo em adultos.
+
+Durante a remoção dos dentes inferiores posteriores do lado direito, a cabeça do
+paciente deve estar bastante virada na direção do cirurgião a fim de possibilitar o
+acesso adequado à mandíbula; o cirurgião deve manter a posição adequada de braços
+e mãos (Figura 8.23). Quando remover um dente na região anterior da mandíbula, o
+cirurgião deve estar ao lado do paciente (Figuras 8.24 e 8.25). Quando operar na
+região mandibular posterior esquerda, o cirurgião deve se mover para o lado do
+paciente, mas a cabeça deste não deve virar tanto na direção do dentista (Figura
+8.26).
+  Figura 8.18 Paciente posicionado para extração de dentes superiores. A cadeira é inclinada para trás
+  para que o plano oclusal esteja em um ângulo de cerca de 60° com o chão. A altura da cadeira deve
+  garantir que o nível da boca do paciente esteja levemente abaixo do cotovelo do cirurgião.
+
+  Figura 8.19 Extração do dente no quadrante superior direito. Notase que a cabeça do paciente está
+  voltada para a direção do cirurgião.
+
+  Figura 8.20Extraçãodedentessuperioresanteriores.Opacienteolhaparaa frente.
+
+  Figura 8.21 Extração de dentes posteriores superiores esquerdos. A cabeça do paciente está
+  ligeiramente voltada para o cirurgião.
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  Figura 8.22 Para extrações de dentes inferiores, o paciente deve estar mais para cima para que o
+  plano oclusal mandibular da boca aberta esteja paralelo ao chão. A altura da cadeira também é mais
+  baixa, para que o braço do cirurgião esteja mais reto.
+
+  Figura 8.23 Extração de dentes superiores posteriores direitos. O paciente está com a cabeça
+  voltada para o cirurgião.
+
+  Figura 8.24Extraçãodedentesinferioresanteriores.Ocirurgiãoficaaoladodo
+  paciente,queolhaparaafrente.
+
+  Figura 8.25 Quando o fórceps estilo inglês é usado para a extração de dentes inferiores anteriores,
+  posiciona-se a cabeça do paciente para a frente.
+
+  Figura 8.26 Extração de dentes inferiores posteriores. O paciente vira-se levemente na direção do
+  cirurgião. Alguns cirurgiões preferem acessar dentes superiores e inferiores por trás. Isso faz com
+  que a mão esquerda do cirurgião apoie melhor a mandíbula, mas exige que o fórceps seja segurado
+  com a mão por baixo e que o profissional veja o campo em uma perspectiva invertida. A mão
+  esquerda do cirurgião vai ao redor da cabeça do paciente e apoia a mandíbula. A abordagem por
+  trás do paciente pode ser vista nas Figuras 8.27 e 8.28. Observa-se que o braço direito do
+  cirurgião-dentista é mantido próximo ao corpo, o que aumenta a força. Se o cirurgião-dentista fizer
+  as extrações sentado, algumas modificações precisam ser consideradas. Para extrações de dentes
+  superiores, posiciona-se
+
+o paciente de modo semirreclinado, similar ao adotado quando o cirurgião está em
+pé. Entretanto, o paciente não está tão reclinado; assim, o plano oclusal não está
+perpendicular ao chão como quando o cirurgião-dentista está em pé. O paciente deve
+estar o mais baixo possível para que o nível de sua boca esteja o mais próximo do
+cotovelo do cirurgião (Figura 8.29). As posições da mão e do braço para extração de
+dentes superiores anteriores e posteriores são parecidas com as posições usadas para
+as mesmas extrações feitas em pé (Figura 8.30).
+  Figura 8.27 Abordagem por trás do paciente para a extração de dentes inferiores posteriores
+  direitos. Esse procedimento possibilita que o cirurgião fique em uma posição estável e confortável.
+
+  Figura 8.28 Abordagem por trás do paciente para a extração de dentes inferiores posteriores
+  esquerdos. Posiciona-se a mão do cirurgião por baixo do fórceps.
+
+  Figura 8.29 Na posição em que o cirurgião está sentado, posicionase o paciente o mais baixo
+  possível para que a boca esteja no nível ou abaixo do cotovelo do cirurgião.
+
+  Figura 8.30 Para a extração dos dentes superiores, reclina-se o paciente para trás em,
+  aproximadamente, 60 graus. As posições da mão e do fórceps são as mesmas para a posição de pé.
+
+  Figura 8.31 Para a extração dos dentes superiores, o cirurgião pode segurar o fórceps na posição
+  com a mão por baixo. Da mesma maneira de quando o cirurgião está de pé, para a extração de
+  dentes no arco inferior o paciente está levemente mais elevado que para a extração de dentes
+  superiores. O cirurgião pode trabalhar pela frente do paciente (Figuras 8.31 e 8.32) ou por trás deste
+  (Figuras 8.33 e 8.34). Quando se utiliza o fórceps de estilo inglês, a posição do cirurgião costuma ser
+  atrás do paciente (Figura 8.35). Deve ser notado que o cirurgião e o assistente têm as posições da
+  mão e do braço similares às usadas quando o cirurgião está em pé.
+
+A remoção de dentes do processo alveolar necessita do uso dos seguintes princípios
+mecânicos e instrumentais simples: a alavanca, a cunha, a roda e o eixo. Os
+elevadores são utilizados, principalmente, como alavancas. Uma alavanca é um
+mecanismo para transmitir uma força modesta – com a vantagem mecânica de um
+braço de potência longo e um braço de resistência curto – em um pequeno movimento
+contra uma grande resistência (Figura 8.36). Um exemplo do uso da alavanca é
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+quando se insere a ponta de um elevador de Crane dentro de um ponto criado no
+dente e depois se usa o instrumento para elevar o dente (Figura 8.37).
+  Figura 8.32 Para a extração de dentes inferiores posteriores, o cirurgião pode segurar o fórceps com
+  as mãos por cima.
+
+  Figura 8.33 Na remoção de dentes anteriores, o cirurgião move-se para uma posição atrás do
+  paciente a fim de que sua mandíbula e o processo alveolar sejam apoiados pela outra mão do
+  cirurgião.
+
+  Figura 8.34 A posição atrás do paciente pode ser usada para a remoção dos dentes inferiores
+  posteriores. A mão do cirurgião é posicionada por baixo do fórceps para máximo controle.
+
+  Figura 8.35 Quando se usa o fórceps estilo inglês, é preferível a posição por trás do paciente.
+
+  Figura 8.36 Uma alavanca de primeira classe transforma uma pequena força e um grande
+  movimento em um pequeno movimento e uma grande força. O segundo mecanismo simples
+  utilizado é a cunha (Figura 8.38). A cunha é útil em diversas maneiras para a extração dos dentes.
+  Primeiro, as pontas dos fórceps de extração são normalmente estreitas; elas se alargam conforme
+  vão subindo. Quando os fórceps são usados, deve haver um esforço consciente para forçar as pontas
+  dentro do espaço do ligamento periodontal na crista óssea. Usa-se a raiz do dente como uma cunha
+  para expandir o osso; como as pontas do fórceps são pressionadas apicalmente na raiz, vão ajudar a
+  forçar o dente para fora da cavidade (Figura 8.39). O princípio da cunha é também útil quando se
+  usa o elevador reto para luxar um dente do alvéolo. Coloca-se um pequeno elevador dentro do
+  espaço do ligamento periodontal, que desloca a raiz na direção oclusal e, assim, para fora do alvéolo
+  (Figura 8.40). O terceiro mecanismo usado na extração dentária é a roda e o eixo, mais identificado
+  com o elevador triangular ou em forma de bandeira. Quando uma raiz de um dente com várias
+  raízes é deixada no processo alveolar, posiciona-se e gira-se um elevador em forma de flâmula,
+  como a Cryer, no alvéolo. O cabo serve, então, como eixo; a ponta do elevador triangular age como
+  roda e encaixa-se e levanta a raiz do dente para fora do alvéolo (Figura 8.41).
+
+Os principais instrumentais usados para remover um dente do processo alveolar são
+os extratores do tipo elevadores e o fórceps. Os elevadores podem ajudar na luxação
+de um dente; o fórceps continua o processo por meio de expansão óssea e de
+rompimento dos ligamentos periodontais. O objetivo do uso do fórceps é triplo: (1)
+expansão do alvéolo ósseo pelo uso das pontas em forma de cunha e dos movimentos
+do próprio dente com o fórceps; (2) torção de raízes cônicas para romper ligamentos
+periodontais; e (3) remoção do dente do alvéolo. O elevador dental consiste em um
+cabo, uma haste e uma lâmina. O cabo do elevador costuma ser alinhado com a haste
+e é mais largo para que seja segurado na palma da mão. O elevador pode também ter
+áreas achatadas para os dedos agarrarem e ajudar a guiá-lo. O cabo também pode ser
+perpendicular à haste (elevadores tipo barra transversal). A haste conecta o cabo à
+lâmina. As lâminas podem ser retas, triangulares (Cryer), curvas (Potts) ou
+pontiagudas (Crane Pick).
+  Figura 8.37 Na remoção do pré-molar inferior, colocou-se o ponto de apoio no dente, o que cria uma
+  situação de alavanca de primeira classe. Quando se insere a
+
+alavanca apical de Crane no ponto de apoio e se abaixa o cabo apicalmente (A),
+eleva-se o dente oclusalmente para fora do alvéolo com o osso alveolar vestibular
+sendo usado como fulcro (B).
+  Figura 8.38 Uma cunha pode ser empregada para expandir, dividir e deslocar porções onde ela é
+  usada.
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  Figura 8.39 As pontas dos fórceps atuam como cunhas para expandir o osso alveolar e deslocar o
+  dente na direção oclusal.
+
+  Figura 8.40 Alavanca pequena e reta usada como cunha para deslocar a raiz do dente de seu
+  alvéolo, dirigindo a alavanca apicalmente no espaço do ligamento periodontal.
+
+  Figura 8.41 Alavanca triangular na função de eixo e roda usada para remover a raiz do alvéolo. Os
+  fórceps podem executar cinco grandes movimentos para luxar dentes: o primeiro é a pressão apical,
+  que consegue dois objetivos: (1) apesar de o dente se mover em direção apical minimamente, o
+  alvéolo dental é expandido pela inserção das pontas para baixo no espaço do ligamento periodontal
+  (Figura 8.42). Assim, a pressão apical do fórceps no dente causa expansão óssea. (2) Um segundo
+  efeito da pressão apical é que ela desloca o centro e a rotação do dente apicalmente. Como o dente
+  está se movendo em resposta à força exercida pelo fórceps, ele se torna o instrumental de
+  expansão. Se o ponto de fulcro for alto (Figura 8.43), aplica-se uma quantidade maior de força na
+  região apical do dente, o que aumenta a chance de fratura no terço apical da raiz. Se as pontas do
+  fórceps forem forçadas no espaço do ligamento periodontal, mexe-se no centro de rotação
+  apicalmente, o que resulta em maior movimento das forças de expansão na crista e menos força no
+  ápice do dente no sentido lingual (Figura 8.44). Este processo diminui a chance de fratura apical da
+  raiz.
+
+  Figura 8.42 O fórceps de extração deve ser ajustado com forte pressão apical para expandir a crista
+  óssea e deslocar o centro de rotação o mais apicalmente possível.
+
+  Figura 8.43 A. Se o centro de rotação (asterisco) não for apicalmente distante o bastante, ele é
+  muito oclusal, o que resulta em excesso de movimento do ápice do dente. B. O excesso de
+  movimento do ápice da raiz causado por um centro de rotação alto resulta em fratura do ápice da
+  raiz.
+
+  Figura 8.44 A. Se o fórceps for ajustado apicalmente, o centro de rotação (asterisco) desloca-se
+  apicalmente e geram-se menores pressões apicais. B. Isso resulta em maior expansão do córtex
+  vestibular, menor movimento do ápice do dente e, assim, menor chance de fratura da raiz.
+
+  Figura 8.45 A pressão vestibular aplicada ao dente expandirá a cortical vestibular na crista óssea,
+  com alguma expansão lingual na parte apical da raiz. O asterisco indica o centro de rotação. A
+  segunda maior pressão, ou movimento, aplicada pelo fórceps é a força vestibular. As pressões
+  vestibulares resultam em expansão da lâmina vestibular, sobretudo na crista óssea (Figura 8.45).
+  Apesar de a pressão vestibular causar forças de expansão na crista óssea, é importante lembrar que
+  isso também causa pressão lingual apical. Além do mais, a força excessiva pode fraturar o osso
+  vestibular ou causar fratura da porção apical da raiz.
+
+O terceiro movimento é a pressão lingual, ou palatina, similar ao conceito da pressão
+vestibular, mas tem como objetivo expandir o osso da crista lingual e, ao mesmo
+tempo, evitar pressão excessiva no osso apical vestibular (Figura 8.46). Como o osso
+lingual tende a ser mais espesso do que o osso vestibular em áreas posteriores da
+boca, ocorre uma expansão óssea limitada. O quarto movimento, pressão rotacional,
+como o nome indica, roda o dente, o que causa alguma expansão interna do alvéolo
+dental e rompimento dos ligamentos periodontais. Os dentes com raízes únicas,
+cônicas (como incisivos, caninos e pré-molares inferiores) e aqueles com raízes que
+não são curvas são os mais fáceis de luxar com essa técnica (Figura 8.47). Os dentes
+que têm outras raízes que não sejam cônicas ou aqueles com múltiplas raízes –
+especialmente se elas forem curvas – são mais passíveis de fratura sob esse tipo de
+pressão. Por fim, as forças de tração são úteis para tirar o dente do alvéolo, uma vez
+sendo alcançada a expansão óssea adequada. Conforme mencionado anteriormente,
+os dentes não devem ser puxados de seus alvéolos. As forças de tração devem ser
+limitadas à porção final do processo de extração e ser delicadas (Figura 8.48). Se for
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+necessário empregar força excessiva, outras manobras devem ser executadas para
+melhorar a luxação radicular.
+  Figura 8.46 A pressão lingual irá expandir a cortical lingual na crista alveolar e expandir levemente o
+  osso vestibular na área apical. O asterisco indica o centro de rotação.
+
+  Figura 8.47 As forças rotacionais são úteis para os dentes com raízes cônicas, como os incisivos
+  superiores e os pré-molares inferiores.
+
+  Figura 8.48 As forças de tração são úteis para a remoção final do dente do alvéolo. Essas forças
+  devem sempre ser pequenas, pois os dentes não são puxados. Resumindo, diversas forças podem
+  ser usadas para extração dentária. Uma grande força apical é sempre útil e deve ser aplicada
+  sempre que o fórceps for adaptado ao dente. Remove-se a maioria dos dentes por uma combinação
+  de forças vestibulares e linguais (palatinas). Como o osso maxilar vestibular costuma ser mais fino e
+  o palatino é uma cortical mais espessa, normalmente os dentes maxilares são removidos por forças
+  vestibulares mais intensas e forças palatinas menos vigorosas. Na mandíbula, o osso vestibular é
+  mais fino a partir da linha média posterior à área dos molares. Assim, incisivos, caninos e
+  pré-molares são removidos,
+
+principalmente, como resultado de uma força vestibular contínua maior e pressão
+lingual menos vigorosa. Conforme mencionado anteriormente, as forças rotacionais
+são úteis para dentes unirradiculares que têm raízes cônicas e sem curvaturas no fim
+da raiz. Os incisivos maxilares, especialmente o incisivo central e os pré-molares
+mandibulares, são mais suscetíveis a forças rotacionais.
+
+Uma raiz irrompida pode ser extraída usando-se uma ou duas técnicas principais:
+fechada ou aberta. A técnica fechada é também conhecida como técnica de rotina. A
+técnica aberta é também conhecida como técnica cirúrgica ou técnica a retalho. Este
+tópico discute a técnica de extração fechada. A técnica aberta (cirúrgica) é abordada
+no Capítulo 9. A técnica fechada é a mais frequentemente usada e a primeira
+considerada para quase todas as extrações. Utiliza-se a técnica aberta quando o
+clínico acredita que seria necessário aplicar força excessiva para remover o dente,
+quando uma quantidade substancial da coroa está ausente ou coberta por tecido ou
+quando uma coroa frágil está presente. A técnica correta para qualquer situação deve
+levar a uma extração atraumática. Em geral, a técnica errada resulta em uma
+extração excessivamente traumática e demorada. Independentemente da técnica
+escolhida, os três fundamentos requeridos para uma boa extração continuam os
+mesmos: (1) acesso e visualização adequados do campo cirúrgico; (2) um caminho
+sem impedimentos para a remoção do dente; e (3) o uso de força controlada para
+luxar e remover o dente. Para o dente ser removido do alvéolo ósseo, costuma ser
+necessário expandir as paredes do alvéolo ósseo para abrir um caminho livre para a
+raiz do dente, e é necessário romper as fibras do ligamento periodontal que prendem
+o dente ao alvéolo ósseo. O uso de elevadores e fórceps como alavancas e cunhas com
+constante aumento de força pode alcançar esses dois objetivos. Cinco etapas gerais
+formam o procedimento de extração fechada. A Etapa 1 envolve a divulsão do tecido
+mole inserido da porção cervical do dente. O primeiro passo na remoção pela técnica
+de extração fechada é soltar o tecido mole ao redor do dente com um instrumental
+afiado, como lâmina de bisturi e a ponta afiada de um elevador de periósteo nº 9
+(Figura 8.49). O
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+propósito da divulsão do tecido mole do dente é duplo: (1) primeiro, isso faz com que
+o cirurgião tenha certeza de que a anestesia profunda foi alcançada. Quando esse
+passo estiver concluído, o cirurgião informa ao paciente que a cirurgia está prestes a
+começar e que o primeiro passo será empurrar o tecido mole para longe do dente. O
+paciente experimenta uma pequena pressão nessa etapa, mas não deve haver dor ou
+desconforto se foi aplicada anestesia profunda no local. Assim, o cirurgião começa o
+procedimento de descolamento, delicadamente no início e depois aumentando a
+força. (2) A segunda razão pela qual o tecido mole é solto é para possibilitar que o
+elevador e o fórceps de extração sejam posicionados mais apicalmente, sem
+interferência ou impedimento da gengiva. À medida que o tecido é afastado do dente,
+ele é ligeiramente refletido, o que aumenta a largura do sulco gengival e facilita a
+entrada da ponta chanfrada do fórceps. A papila gengival adjacente do dente deve
+também ser divulsionada para evitar lesão pela inserção do elevador reto.
+  Figura 8.49 Elevador de periósteo, usado para divulsionar a inserção gengival e a papila interdental.
+  (Cortesia do Dr. Edward Ellis III.)
+
+  Figura 8.50 Elevador pequeno e reto inserido perpendicularmente no dente depois de a papila ser
+  divulsionada. (Cortesia do Dr. Edward Ellis III.)
+
+  Figura 8.51 O cabo do elevador reto pequeno é girado de modo que o lado oclusal de sua lâmina
+  esteja virado na direção do dente. O cabo também é movido apicalmente para ajudar a elevar o
+  dente.
+
+  Figura 8.52 O cabo do elevador pode ser girado na direção oposta para deslocar o dente para fora do
+  alvéolo. Isso pode ser conseguido apenas se não houver nenhum dente adjacente posterior.
+
+A Etapa 2 consiste na luxação do dente com um elevador dental. A luxação do dente
+começa com um elevador, normalmente o reto. Na maioria das situações, a elevação
+na face lingual ou palatina das raízes é limitada, devido ao acesso ruim e à eficácia
+limitada. A elevação deve ocorrer nas faces vestibulares mesial e distal da raiz. Não
+se deve tentar elevação ao longo da vestibular do osso, pois pode ser facilmente
+fraturada, ou o cirurgião-dentista pode perder o controle e causar lesão nos tecidos
+moles. A expansão e a dilatação do osso alveolar e o rompimento do ligamento
+periodontal requerem que o dente seja luxado de muitas maneiras. Insere-se o
+elevador reto perpendicularmente ao dente dentro do espaço interdental, após a
+divulsão da papila interdental (Figuras 8.50 a 8.52). Então, move-se o elevador para
+direcionar a lâmina apicalmente. O elevador é, então, girado em pequenos
+movimentos para trás e para frente, enquanto se faz pressão apical para avançar a
+lâmina para o espaço do ligamento periodontal. Inicialmente, deve ser usado um
+elevador reto com uma pequena lâmina. Uma vez que algum movimento dentário seja
+notado, um elevador reto maior deve ser inserido e usado de maneira similar. Se o
+dente estiver intacto, em contato com dentes estáveis anterior e posteriormente, a
+quantidade de movimento obtido com o elevador reto será mínima. A utilidade desse
+passo é maior se o paciente não tiver dente posterior ao dente que está sendo
+extraído ou se estiver quebrado a uma extensão que as coroas não impeçam o
+movimento dele ou se o adjacente também estiver planejado para extração na mesma
+consulta. A luxação do dente com elevador reto deve ser feita com cuidado. Forças
+excessivas podem prejudicar ou, até mesmo, deslocar os dentes adjacentes àqueles
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+que estão sendo extraídos. Isso é especialmente verdadeiro se o dente adjacente tiver
+uma restauração grande ou lesão cariosa. Tal fato é apenas o passo inicial no
+processo de avaliação. Em seguida, insere-se um pequeno elevador reto no espaço do
+ligamento periodontal no ângulo da linha mesiovestibular. Posiciona-se o elevador
+apicalmente enquanto se gira para trás e para a frente, ajudando a luxar o dente com
+ação de sua ponta enquanto se avança apicalmente. Uma ação similar com o elevador
+pode ser
+
+feita na linha do ângulo distovestibular. Quando um pequeno elevador reto gira
+facilmente, usa-se um elevador de maior tamanho para fazer o mesmo avanço apical.
+Geralmente, o dente irá se afrouxar o suficiente para ser removido facilmente com o
+fórceps. A Etapa 3 consiste na adaptação do fórceps ao dente. Agora, os fórceps
+adequados são escolhidos para o dente a ser extraído. As pontas do fórceps devem
+apresentar formato adequado para se adaptarem anatomicamente ao dente,
+apicalmente à margem cervical, ou seja, na superfície radicular. Desse modo, o
+fórceps é ajustado ao dente para que suas pontas agarrem a raiz abaixo do tecido
+mole descolado (Figura 8.53). A ponta lingual costuma ser ajustada primeiro e,
+depois, a ponta vestibular. Deve-se tomar cuidado para confirmar que as pontas do
+fórceps estejam embaixo do tecido mole e não encostando no dente adjacente. Uma
+vez que o fórceps tenha sido posicionado no dente, o cirurgião aperta os cabos do
+instrumental nas extremidades para maximizar a vantagem mecânica e o controle
+(Figura 8.54). Se a raiz for mal posicionada de tal modo que o fórceps normal não
+possa agarrar o dente sem lesionar o dente adjacente, deve ser usado outro fórceps
+com pontas mais estreitas. Podem ser utilizados fórceps para raízes superiores a fim
+de abordar de dentes anteriores inferiores apinhados. As pontas do fórceps devem
+ser posicionadas paralelamente ao longo do eixo do dente para que a força gerada
+pela aplicação de pressão no cabo seja distribuída ao longo do eixo do dente para
+maior efetividade na dilatação e na expansão do osso alveolar. Se as pontas não
+estiverem paralelas ao longo do eixo do dente, é muito provável que a raiz frature.
+Assim, o fórceps é impulsionado apicalmente o máximo possível para agarrar a raiz
+do dente o mais apicalmente possível. Com isso, conseguem-se duas coisas: (1) as
+pontas do fórceps agem como cunhas para dilatar a crista óssea nas faces lingual e
+vestibular; e (2) forçando as pontas apicalmente, o centro de rotação (ou fulcro) do
+fórceps aplicado ao dente é deslocado na direção do ápice do dente, o que resulta em
+maior efetividade da expansão óssea e menor probabilidade de fratura da parte apical
+da raiz do dente.
+
+Nesse ponto, a mão do cirurgião deve estar segurando o fórceps com firmeza, com o
+pulso travado e o braço preso junto ao corpo; o cirurgião deve estar preparado para
+aplicar força com o ombro e a parte superior do braço sem pressionar o pulso. O
+cirurgião deve estar de pé, ereto, com os pés confortavelmente separados. A Etapa 4
+envolve a luxação do dente com o fórceps. O cirurgião começa a luxar o dente usando
+os movimentos discutidos anteriormente. A maior parte da força é feita na direção do
+osso mais fino e, portanto, mais fraco. Assim, em todos os dentes da maxila e todos os
+mandibulares, menos o molar, o movimento será labial e vestibular (p. ex., na direção
+da camada fina do osso). O cirurgião usa força lenta, controlada e constante para
+
+
+
+                    Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+deslocar o dente vestibularmente, em vez de uma série de movimentos que fazem
+pouca expansão óssea. O movimento é controlado e lento, e gradualmente
+aumenta-se sua força. Em seguida, o dente é movido na direção oposta com pressão
+ponderada, lenta e forte. Enquanto o osso alveolar começa a se expandir,
+posiciona-se o fórceps apicalmente com um movimento firme e controlado que causa
+expansão adicional do osso alveolar e depois desloca o centro de rotação
+apicalmente. Pressões linguais e vestibulares continuam a expandir o alvéolo ósseo.
+Para alguns dentes, movimentos pequenos de rotação são então usados para ajudar a
+expandir os alvéolos e romper os ligamentos periodontais. Cirurgiões iniciantes têm
+tendência a aplicar pressão inadequada por período insuficiente de tempo.
+  Figura 8.53 Pontas dos fórceps, forçados apicalmente embaixo do tecido mole. (Cortesia do Dr.
+  Edward Ellis III.)
+
+  Figura 8.54 Cabo do fórceps, segurado na porção final para otimizar a vantagem mecânica e o
+  controle do instrumental. A. Fórceps superior universal. B. Fórceps inferior universal. Os três fatores
+  seguintes devem ser enfatizados novamente: (1) o fórceps deve estar ajustado o mais apicalmente
+  possível e reajustado periodicamente durante a extração; (2) as forças aplicadas nas direções
+  lingual e vestibular
+
+devem ser lentas, controladas, e não com manobras bruscas; e (3) a força deve ser
+mantida por alguns segundos para que o osso tenha tempo para expandir. Deve-se
+lembrar que os dentes não são puxados; ao contrário, eles são delicadamente
+levantados dos alvéolos, uma vez que o processo alveolar tenha sido expandido o
+bastante. A Etapa 5 é a remoção do dente do alvéolo. Uma vez que o osso alveolar
+tenha sido suficientemente expandido e o dente luxado, pode ser usada uma força de
+tração leve, geralmente de direção vestibular. Forças de tração devem ser
+minimizadas, pois se usa esse último movimento quando o processo alveolar é
+suficientemente expandido e o ligamento periodontal está completamente rompido.
+Deve-se lembrar que a luxação do dente com fórceps e a remoção do dente do osso
+são passos separados na extração. Direciona-se a luxação para a expansão do osso e o
+rompimento do ligamento periodontal. O dente não é removido do osso até que esses
+dois objetivos sejam alcançados. O cirurgião novato deve perceber que o principal
+papel do fórceps não é remover o dente, mas expandir os ossos para que a(s)
+raiz(raízes) possa(m) ser removida(s). Para dentes mal posicionados ou com posições
+incomuns no processo alveolar, a luxação com fórceps e a remoção do processo
+alveolar podem ser em direções pouco comuns. O cirurgião deve determinar um
+sentido em que o dente deve se mover e ser, assim, capaz de movê-lo nessa direção. A
+cuidadosa avaliação pré-operatória e o planejamento ajudam a guiar tal determinação
+durante a extração. Durante o uso do fórceps e de alavancas para luxar e remover
+dentes, é importante que a mão oposta do cirurgião tenha um papel ativo no
+procedimento. Para operadores destros, a mão esquerda tem diversas funções. A mão
+esquerda é responsável pelo afastamento dos tecidos moles das bochechas, dos lábios
+e da língua para gerar visualização adequada da
+
+área da cirurgia. A mão esquerda ajuda a proteger outros dentes do fórceps, caso ele
+se solte repentinamente do alvéolo dentário. A mão esquerda, e às vezes o braço,
+ajudam a estabilizar a cabeça do paciente durante o processo de extração. Em
+algumas situações, grande quantidade de força é necessária para expandir osso
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+alveolar denso. Assim, a cabeça do paciente precisa de ajuda ativa para se manter
+estável. A mão oposta tem importante papel no apoio e na sustentação da mandíbula
+quando os dentes mandibulares estão sendo extraídos. A mão oposta costuma ser
+necessária para aplicar considerável pressão a fim de expandir o osso mandibular
+denso, e tais forças podem causar desconforto e até mesmo lesão à ATM, a menos
+que se atue com mão firme de modo oposto a elas. Um bloco de mordida no lado
+contralateral também é usado para ajudar a abrir a mandíbula nessa situação. Por
+fim, a mão oposta suporta o processo alveolar e dá informação tátil ao cirurgião no
+que diz respeito à expansão do processo alveolar durante o período de luxação. Em
+algumas situações, é impossível para a mão oposta exercer todas essas funções ao
+mesmo tempo. Então, o cirurgião solicita um assistente para ajudar em algumas das
+funções. Para alcançar um resultado de sucesso em qualquer procedimento cirúrgico,
+é muito útil ter um assistente habilidoso. Durante a extração, o assistente exerce
+diversas funções importantes que contribuem para tornar a experiência cirúrgica
+atraumática para o paciente. O assistente auxilia o cirurgião a visualizar e a ganhar
+acesso à área da cirurgia. Assim, afasta os tecidos moles das bochechas e da língua
+para que o dentista tenha uma visão desobstruída do campo de procedimento. Mesmo
+durante a extração fechada, o assistente pode afastar o tecido mole a fim de que o
+cirurgião possa aplicar os instrumentais para divulsionar o ligamento do tecido mole
+e adaptar o fórceps ao dente de modo mais eficaz. Outra importante atividade do
+assistente é sugar sangue, saliva ou solução irrigadora utilizada durante o
+procedimento cirúrgico. Isso evita que
+
+os fluidos se acumulem e proporciona visualização apropriada ao campo cirúrgico. A
+aspiração também é importante para o conforto do paciente, pois muitos indivíduos
+não conseguem tolerar nenhuma acumulação de sangue ou outros fluidos na
+garganta (Figura 8.55). Durante a extração, o assistente deve também ajudar a
+proteger os dentes do arco oposto, o que é especialmente importante quando se
+removem os dentes inferiores posteriores. Se as forças de tração forem necessárias
+para remover um dente inferior, ocasionalmente, o dente se solta de repente e o
+fórceps bate nos dentes superiores e pode fraturar uma cúspide. O assistente deve
+segurar uma ponta de aspiração ou o dedo contra os dentes superiores para
+protegê-los de uma pancada.
+  Figura 8.55 Enquanto o cirurgião segura a peça de mão cirúrgica e o afastador de Minnesota, o
+  assistente faz a irrigação para refrigeração e aspira. (Cortesia do Dr. Edward Ellis III.) Durante a
+  extração de dentes inferiores, o assistente pode ter papel importante apoiando a mandíbula durante
+  a aplicação das forças de extração. Um cirurgião que usa a mão para afastar o tecido mole pode não
+  conseguir apoiar a mandíbula. Se esse for o caso, o assistente tem atuação importante,
+
+estabilizando a mandíbula para evitar o desconforto da ATM. Mais comumente, o
+cirurgião estabiliza a mandíbula, o que torna tal papel menos relevante para o
+assistente. O assistente também oferece apoio psicológico e emocional ao paciente,
+ajudando a aliviar sua ansiedade durante a administração de anestesia e a cirurgia. O
+assistente é importante na confiança do paciente e em sua cooperação, usando
+linguagem positiva e contato físico com ele durante a preparação e o procedimento
+em si. O assistente deve evitar fazer comentários casuais espontâneos que possam
+aumentar a ansiedade do paciente e diminuir sua cooperação.
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+Este tópico descreve técnicas específicas para a remoção de cada dente na boca
+depois de serem luxados. Em algumas situações, alguns dentes são agrupados (p. ex.,
+os dentes maxilares anteriores), pois a técnica de remoção é essencialmente a
+mesma. O leitor deve atentar para o papel da mão esquerda em cada instância. Na
+posição correta para a extração dos dentes maxilares esquerdos ou anteriores, o dedo
+indicador esquerdo do cirurgião deve afastar os tecidos do lábio e das bochechas,
+enquanto o polegar deve repousar no processo alveolar palatino (Figura 8.56). Dessa
+maneira, a mão esquerda é capaz de afastar o tecido mole da bochecha, estabilizar a
+cabeça do paciente, apoiar o processo alveolar e oferecer informação tátil ao
+cirurgião a respeito do processo de extração. Quando se adota tal posição durante a
+extração do molar superior, o cirurgião pode sentir com a mão esquerda a raiz
+palatina do molar tornando-se livre no processo alveolar, antes de senti-la com o
+fórceps ou com a mão da extração. Para o lado direito, posiciona-se o dedo indicador
+no palato, com o polegar na superfície vestibular. Os incisivos superiores são
+extraídos com o fórceps universal superior (nº 150), apesar de outros fórceps
+poderem ser usados, como o reto (nº 1). Em geral, os incisivos maxilares têm raízes
+cônicas, com os incisivos laterais apresentando-se levemente mais longos e mais
+delgados. O incisivo lateral é o que tem maior probabilidade de também apresentar
+uma curvatura distal no terço apical da raiz. Então, isso deve ser conferido
+radiograficamente antes da extração desse dente. O osso alveolar é fino no lado
+vestibular e
+
+mais espesso no lado palatino, o que indica que a maior expansão do processo
+alveolar será na direção vestibular. O movimento inicial é lento, constante e firme na
+direção labial, com expansão da crista óssea vestibular. Desse modo, uma força
+palatina menos vigorosa é aplicada, seguida de uma rotacional lenta e firme.
+Movimentos rotacionais devem ser minimizados para o incisivo lateral, especialmente
+se houver curvatura no dente. Remove se o dente na direção labioincisal, com
+pequena quantidade de força de tração (Figura 8.57).
+  Figura 8.56 Extração de dentes superiores posteriores esquerdos. O dedo indicador esquerdo afasta
+  o lábio e a bochecha e apoia o processo alveolar no lado vestibular. O polegar é posicionado na
+  parte palatina do processo alveolar e apoia o processo alveolar. Estabiliza-se a cabeça por essa
+  posição e obtém-se informação tátil sobre os movimentos do dente e do osso. O canino superior
+  costuma ser o dente mais longo da boca. A raiz é oblonga em seção transversal e normalmente
+  produz uma protuberância chamada
+
+eminência canina na superfície anterior da maxila. O resultado é que o osso sobre a
+face vestibular dos caninos maxilares costuma ser fino. Apesar do osso vestibular
+fino, esse dente pode ser difícil de extrair simplesmente por causa de sua raiz longa e
+da área superficial larga para a inserção de ligamento periodontal. Além disso, não é
+incomum um segmento de osso alveolar vestibular fraturar na lâmina vestibular e ser
+removido com o dente. O fórceps universal superior (nº 150) é o instrumental
+preferido para remover o canino superior, depois da luxação. Como todas as
+extrações, a colocação inicial das pontas do fórceps no canino deve ser o mais apical
+possível. O movimento inicial é apical e depois para o lado vestibular, com retorno da
+pressão para o lado palatino. Enquanto o osso se expande e o dente fica com
+mobilidade, o fórceps deve ser reposicionado apicalmente. Uma pequena quantidade
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+de força rotacional pode ser usada na expansão do alvéolo dentário, especialmente se
+dentes adjacentes estiverem ausentes ou tiverem acabado de ser extraídos. Após o
+dente ter sido bem luxado, é removido do alvéolo na direção labioincisal com forças
+de tração vestibulares (Figura 8.58). Durante o processo de luxação com o fórceps, se
+o cirurgião sentir uma parte do osso vestibular fraturando, ele deve se decidir com
+relação ao próximo passo. Se a palpação digital indicar que uma pequena quantidade
+de osso se soltou e está presa ao canino, a extração deve continuar da maneira
+habitual. Entretanto, se a palpação digital indicar que uma porção maior do rebordo
+alveolar vestibular foi fraturada, o cirurgião deve parar o procedimento cirúrgico.
+Geralmente, a porção fraturada do osso ainda está presa ao periósteo e, portanto, é
+viável. O cirurgião deve usar um elevador de periósteo fino para divulsionar uma
+pequena quantidade de mucosa ao redor do dente até o nível do osso fraturado.
+Desse modo, o dente canino deve ser estabilizado com o fórceps de extração, e
+convém o cirurgião tentar liberar o osso fraturado do dente, com o elevador de
+periósteo utilizado como alavanca para separar o osso da raiz. Se alcançar êxito, o
+dente pode ser removido e o osso deixado na posição, preso ao periósteo. Deverá
+ocorrer cicatrização normal. Se o osso ficar solto do periósteo durante essas
+
+tentativas, ele deve ser removido, pois provavelmente estará sem vitalidade e poderá
+prolongar o tempo de cicatrização. Esse mesmo procedimento pode ser usado sempre
+que osso alveolar for fraturado durante a extração. A prevenção da fratura do
+rebordo alveolar vestibular é importante. Após a elevação e durante o processo de
+luxação com o fórceps, se uma quantidade normal de pressão não resultar em
+nenhuma movimentação do dente, o cirurgião deve considerar seriamente fazer uma
+extração aberta. Rebatendo um retalho de tecido mole e removendo uma pequena
+quantidade de osso, o cirurgião pode ser capaz de extrair o dente canino sem fraturar
+uma grande quantidade de osso vestibular. Usando-se a técnica aberta, haverá uma
+redução na quantidade total de osso perdido e no tempo de cicatrização
+pós-operatório. O primeiro pré-molar maxilar é unirradicular nos primeiros dois
+terços, com a bifurcação na raiz vestibulolingual normalmente ocorrendo do terço
+apical até a metade. Tais raízes podem ser extremamente finas e sujeitas a fratura,
+especialmente em pacientes mais idosos, nos quais a densidade óssea é grande e a
+elasticidade óssea, menor. Talvez a fratura de raiz mais comum durante a extração
+em adultos ocorra com esse dente. Quanto aos outros dentes maxilares, o osso
+vestibular é fino comparado com o osso palatino. O fórceps superior universal (nº
+150) é o instrumental de escolha. Como alternativa, o fórceps nº 150 pode ser usado
+para a remoção do primeiro pré molar superior. Pela grande probabilidade de fratura
+radicular, o dente deve ser luxado o máximo possível com o elevador reto. Se ocorrer
+fratura de raiz, uma ponta de raiz solta pode ser removida mais facilmente que uma
+que não tenha sido bem luxada pela elevação. Pela bifurcação do dente em duas
+raízes de pontas finas, as forças de extração devem ser cuidadosamente controladas
+durante a remoção do primeiro pré-molar superior. Os movimentos iniciais devem ser
+vestibulares. Os movimentos palatinos são feitos com pequenas quantidades de força
+para
+
+
+
+
+                    Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+evitar a fratura da ponta palatina da raiz, que é a mais difícil de recuperar. Quando se
+luxa o dente vestibularmente, é mais provável que a raiz que se quebre seja a
+palatina. Das duas pontas da raiz, a vestibular é mais fácil de recuperar, devido ao
+osso fino que a recobre. Assim, como em outros dentes maxilares, as pressões
+vestibulares devem ser maiores que as pressões palatinas. Qualquer força rotacional
+deve ser evitada. A remoção final do dente do alvéolo é feita com força de tração em
+direção oclusal e levemente vestibular (Figura 8.59).
+  Figura 8.57 A. Os incisivos superiores são extraídos com fórceps nº 150. A mão esquerda segura o
+  processo alveolar. B. O fórceps é posicionado o mais apicalmente possível. C. A luxação começa com
+  força vestibular. D. Usa-se leve força lingual. E. Remove-se o dente em direção labioincisal com
+  movimento de tração rotacional. O asterisco indica o centro de rotação. O segundo pré-molar
+  superior é unirradicular por todo o comprimento da raiz, que é grossa e tem extremidade
+  arredondada. Consequentemente, a raiz do segundo pré-molar raramente se quebra. O osso alveolar
+  que o cobre é similar ao de outros dentes maxilares, fino na face vestibular, com a face
+  alveolopalatina mais espessa. O fórceps recomendado é o universal superior, ou o nº 150; alguns
+  cirurgiões preferem o fórceps nº 150A. Os fórceps são forçados o mais apicalmente possível para
+  que ganhem maior vantagem mecânica na extração desse dente. Como a raiz do dente é robusta e
+  arredondada, a extração requer movimentos vigorosos de vestibular para palatino e, depois, na
+  direção vestíbulo-oclusal, tracionando com força rotacional (Figura 8.60). O primeiro molar superior
+  tem três raízes grandes e robustas. As raízes vestibulares costumam estar próximas, e as palatinas
+  divergem amplamente na direção do palato. Se as duas raízes vestibulares também forem muito
+  divergentes, torna-se difícil remover tal dente por extração fechada. Mais uma vez, o osso alveolar
+  que o cobre se mostra similar aos outros dentes na maxila; a cortical vestibular é fina e a cortical
+  palatina, espessa e densa. Quando estiver avaliando esse dente radiograficamente, o dentista deve
+  notar o tamanho, a curvatura e a aparente divergência das três raízes. Além disso, deve olhar
+  atentamente as relações entre as raízes dos dentes com o seio maxilar. Se o seio estiver próximo às
+  raízes e estas forem muito divergentes,
+
+é bastante provável ocorrer perfuração sinusal causada pela remoção de uma porção
+do assoalho do seio durante a extração dentária. Se isso for provável após a avaliação
+pré-operatória, o cirurgião deve considerar fortemente uma extração cirúrgica.
+  Figura 8.58 A. As posições da mão e do fórceps para a remoção do canino superior são similares às
+  da remoção dos incisivos. Os fórceps são posicionados o mais apicalmente possível. B. O movimento
+  inicial é em direção vestibular. C. Aplicam-se pequenas quantidades de força lingual. D. Remove-se o
+  dente na direção labioincisal com leve força rotacional. Normalmente, os pares de fórceps nº 53R e
+  nº 53L são usados para a extração dos molares superiores. Esses dois fórceps têm projeções nas
+  pontas vestibulares para caber na bifurcação vestibular. Alguns cirurgiões preferem usar os fórceps
+  nº 89 e nº 90. Esses dois fórceps são especialmente úteis se a coroa do molar apresentar cáries
+  extensas ou grandes restaurações. Os fórceps para molares superiores são adaptados ao dente e
+  ajustados o mais apicalmente possível da maneira habitual (Figura 8.61). O movimento básico de
+  extração é usar pressões vestibulares e palatinas intensas, com mais força na direção vestibular em
+  vez da palatina. A força rotacional não é
+
+útil para a extração desse dente por causa de suas três raízes. Conforme mencionado
+na discussão sobre a extração de primeiros pré-molares maxilares, é preferível
+fraturar uma raiz vestibular a uma palatina (porque se mostra mais fácil recuperar as
+raízes vestibulares). Assim, se o dente tiver raízes muito divergentes e o cirurgião
+suspeitar de que uma delas possa estar fraturada, o dente deve ser luxado de modo a
+evitar a fratura da raiz palatina. O cirurgião deve minimizar a força palatina, pois ela
+fratura a raiz palatina. Uma pressão vestibular intensa, lenta e constante expande a
+cortical vestibular e rompe as fibras do ligamento periodontal que seguram a raiz
+palatina em posição. Deve-se adotar força palatina, mas de maneira reduzida. A
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+anatomia do segundo molar maxilar é similar à do primeiro, exceto pelo fato de as
+raízes tenderem a ser menores e menos divergentes, com as raízes vestibulares mais
+comumente fusionadas em apenas uma raiz. Isso significa que o dente é mais
+facilmente extraído pela mesma técnica descrita para o primeiro molar. O terceiro
+molar irrompido frequentemente tem raízes cônicas e costuma ser extraído com
+fórceps nº 210S, que é o universal utilizado para os lados direito e esquerdo. Em
+geral, o dente é removido logo, porque o osso vestibular é fino e as raízes são
+normalmente fusionadas e cônicas. O terceiro molar irrompido também costuma ser
+extraído com o uso apenas de elevadores. A visualização clara dos terceiros molares
+superiores na radiografia pré-operatória é importante, pois a anatomia das raízes
+desse dente é variável e, frequentemente, existem raízes pequenas dilaceradas e com
+ganchos nesta região. A recuperação de raízes fraturadas nessa região é difícil,
+devido à maior limitação do acesso. Quando removemos dentes mandibulares, o dedo
+indicador da mão esquerda está na região vestibular e o segundo dedo, na região
+lingual, afastando o lábio, a bochecha e a língua (Figura 8.62). Coloca-se o polegar da
+mão
+
+esquerda abaixo do queixo para que a mandíbula seja segura entre os dedos e o
+polegar, o que a apoia e minimiza a pressão na ATM. Essa técnica dá menos
+informação tátil, mas, durante a extração de dentes inferiores, a necessidade de
+apoio da mandíbula supera a necessidade de suporte do processo alveolar. Uma
+alternativa útil é colocar um bloco de mordida entre os dentes contralateralmente
+(Figura 8.63). O bloco de mordida possibilita ao paciente estabilizar as forças para
+limitar a pressão sobre a ATM. A mão do cirurgião ou do assistente deve continuar a
+dar mais apoio à porção inferior da mandíbula. Os incisivos mandibulares e os
+caninos são similares em formato; os incisivos são menores e levemente mais finos, e
+as raízes dos caninos são maiores e mais densas. As raízes dos incisivos são mais
+passíveis de fratura, por serem finas. Assim, elas devem ser removidas apenas após
+adequada luxação pré-extração. O osso alveolar que cobre os incisivos e os caninos é
+fino nos lados labial e lingual. O osso sobre o canino pode ser mais espesso,
+especialmente na face lingual.
+  Figura 8.59 A. Os pré-molares superiores são removidos com fórceps nº 150. A posição da mão é
+  similar à usada em dentes anteriores. B. Primeiramente, aplica se de modo firme uma pressão
+  apical no centro de rotação mais baixo, o mais longe possível, para expandir a crista óssea. C. De
+  início, aplica-se uma pressão vestibular para expandir a cortical óssea vestibular. Os ápices das
+  raízes são empurrados lingualmente e estão, por isso, sujeitos a fratura. D. Aplica-se uma pressão
+  palatal, porém menos vigorosamente que uma pressão vestibular. E. Remove-se o dente em direção
+  buco-oclusal com uma combinação de forças vestibulares e de tração.
+
+  Figura 8.60 A. Quando se extrai o segundo pré-molar superior, o fórceps é ajustado o mais
+  apicalmente possível. B. A luxação começa com pressão vestibular. C. Aplica-se uma pressão lingual
+  muito leve. D. Remove-se o dente em direção buco-oclusal. O asterisco indica o centro de rotação.
+
+  Figura 8.61 A. Extração dos molares maxilares. Retraem-se os tecidos moles dos lábios e bochechas
+  e agarra-se o processo alveolar com a mão oposta. B. As pontas do fórceps são ajustadas o mais
+  apicalmente possível. C. A luxação começa com grande força vestibular. D. Faz-se pressão lingual
+  apenas moderadamente. E. O dente é removido em direção vestíbulo-oclusal. O asterisco indica o
+  centro de rotação.
+
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  Figura 8.62 Extração dos dentes inferiores posteriores esquerdos. Posiciona-se o dedo indicador
+  esquerdo do cirurgião no vestíbulo bucal, retraindo as bochechas. O segundo dedo é posicionado no
+  vestíbulo lingual, retraindo a língua. O polegar fica embaixo do queixo. A mandíbula é agarrada
+  entre os dedos e o polegar para dar apoio durante a extração.
+
+  Figura 8.63 Um bloco de mordida de borracha pode ser colocado entre os dentes do paciente
+  contralateralmente para dar apoio à mandíbula e evitar a pressão excessiva na articulação
+  temporomandibular. O fórceps universal inferior (nº 151) costuma ser usado para remover esses
+  dentes. Outras escolhas são o nº 151A ou o fórceps estilo inglês de Ashe. As pontas dos fórceps são
+  posicionadas no dente e ajustadas apicalmente com grande força. Em geral, os movimentos de
+  extração são em direção vestibular e lingual, com igual pressão em ambos os sentidos. Uma vez que
+  o dente esteja luxado e móvel, podem ser realizados movimentos rotacionais para expandir mais o
+  osso alveolar. O dente é removido do alvéolo com forças de tração na direção labioincisal (Figura
+  8.64). Os pré-molares inferiores estão entre os dentes mais simples de se extrair. As raízes tendem a
+  ser retas e cônicas, embora algumas vezes sejam finas. O osso alveolar que o cobre é fino na cortical
+  vestibular e mais denso no lado lingual. O fórceps universal inferior (nº 151) costuma ser escolhido
+  para a extração dos pré-molares inferiores. O fórceps nº 151A e o fórceps estilo inglês são
+  alternativas populares para a extração desses dentes. Os fórceps são forçados apicalmente o mais
+  longe possível, com os movimentos básicos na direção vestibular, retornando para lingual e, por fim,
+  rotacionando. Realiza-se o movimento rotacional mais na extração desses dentes do que em
+  quaisquer outros, exceto, talvez, pelos incisivos centrais maxilares. Os dentes são então removidos
+  na direção oclusovestibular (Figura 8.65). Cuidadosas radiografias pré-operatórias podem confirmar
+  que não há curvatura no terço apical da raiz. Se tal curvatura existir, o movimento rotacional deve
+  ser reduzido ou eliminado no procedimento de extração (Figura 8.66).
+
+Os molares inferiores costumam ter duas raízes; do primeiro molar são mais
+amplamente divergentes que as raízes do segundo molar. Além disso, as raízes
+podem convergir no ápice. Em geral, os fórceps nº 17 são usados na extração dos
+molares inferiores. Esses fórceps têm pequenas projeções nas pontas e ambos os
+bicos para adaptar na bifurcação das raízes dos dentes. Os fórceps são adaptados à
+raiz do dente na forma habitual. E aplica-se pressão para ajustar os fórceps o mais
+apicalmente possível. Realiza-se um movimento vestibulolingual robusto para
+expandir o alvéolo ósseo e possibilitar que o dente seja extraído na direção
+vestíbulo-oclusal. O osso alveolar lingual ao redor do segundo molar é mais fino que a
+lâmina vestibular, para que o segundo molar possa ser removido mais facilmente com
+pressão lingual em vez de pressão vestibular (Figura 8.67). Um fórceps de molar
+inferior em estilo inglês também está disponível. Se as raízes forem claramente
+bifurcadas, o fórceps nº 23, ou fórceps chifre de vaca, pode ser usado. Esse
+instrumental é projetado para ser fechado à força com os cabos, comprimindo as
+pontas dentro da bifurcação. Isso cria uma força contra a crista alveolar na direção
+vestibulolingual e, literalmente, força os dentes para cima e diretamente para fora do
+alvéolo (Figura 8.68). Se isso não obtiver sucesso inicialmente, usam-se os fórceps em
+movimentos vestibulolinguais para expandir o osso alveolar, e movem-se os cabos do
+fórceps para cima e para baixo, a fim de ajustar as pontas mais profundamente na
+furca. Faz-se mais pressão nos cabos do fórceps. Deve-se tomar cuidado com esse
+fórceps para evitar danos aos dentes maxilares, pois o molar inferior pode,
+literalmente, pular para fora do alvéolo e soltar o fórceps, para bater nos dentes
+superiores.
+  Figura 8.64 A. Na extração de dentes inferiores anteriores, utiliza-se o fórceps nº 151. O assistente
+  afasta a bochecha do paciente e faz a aspiração. B. Os fórceps são colocados o mais apicalmente
+  possível. C. Aplica-se pressão labial moderada para iniciar o processo de luxação. D. Aplica-se força
+
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+  lingual para continuar a expansão óssea. E. O dente é removido em direção labioincisal. O asterisco
+  indica o centro de rotação.
+
+  Figura 8.65 A. Extração do pré-molar inferior. Estabiliza-se a mandíbula, afastam-se os tecidos moles
+  e posiciona-se o fórceps nº 151. B. Alterase levemente a posição da mão na técnica, colocando-a por
+  trás do paciente. C. Fórceps estilo inglês também podem ser usados. D. Os fórceps são colocados o
+  mais apicalmente possível para deslocar o centro de rotação e começar a expansão da crista óssea.
+  E. Aplica-se o fórceps pelo vestíbulo para começar o processo de luxação. F. Adota-se leve pressão
+  lingual. G. O dente é removido com força de tração e de rotação. O asterisco indica o centro de
+  rotação.
+
+  Figura 8.66 Se houver alguma curvatura na raiz do pré-molar, forças rotacionais de extração
+  resultarão em fratura da porção curva da raiz. Assim, tais forças devem ser minimizadas.
+  Normalmente, terceiros molares inferiores erupcionados apresentam raízes cônicas. Como a
+  bifurcação não é comum, o fórceps nº 222 – de pontas curtas, angulado – é usado para extrair esses
+  dentes. A cortical óssea lingual mostra-se definitivamente mais fina que a cortical vestibular. Desse
+  modo, a maioria das forças de extração deve ser feita para a lingual. O terceiro molar é removido
+  em direção oclusolingual. Os terceiros molares mandibulares irrompidos que estão em função
+  podem ser decepcionantemente difíceis de extrair. O dentista deve levar em consideração usar a
+  alavanca reta e alcançar determinado grau de luxação antes da aplicação do fórceps. A pressão
+  deve ser aumentada gradualmente, e deve-se tentar mover o dente antes de realizar fortes
+  pressões finais.
+
+  Figura 8.67 A. Molares inferiores são extraídos com o fórceps nº 17 ou o nº 23. A posição das mãos
+  do cirurgião-dentista e a do assistente são as mesmas para ambos os fórceps. B. Coloca-se o fórceps
+  nº 17 o mais apicalmente possível. C. Inicia-se a luxação do molar com um forte movimento
+  vestibular. D. Aplica-se forte pressão lingual para continuar a luxação. E. O dente é removido em
+  direção vestíbulo-oclusal. O asterisco indica o centro de rotação. Raramente é necessário remover
+  dentes decíduos antes que a reabsorção radicular substancial tenha ocorrido. Entretanto, quando a
+  remoção é necessária, ela deve ser feita com muito cuidado porque as raízes dos dentes
+
+decíduos são longas e delicadas e sujeitas a fratura. Isso é especialmente verdadeiro
+por causa dos dentes sucessores que causam reabsorção das porções coronal da
+estrutura radicular e, assim, as enfraquecem. Os fórceps normalmente usados são os
+fórceps universais superior e inferior, nº 150S e nº 151S. Eles são posicionados e
+forçados apicalmente de maneira habitual, com movimentos firmes e lentos na
+direção vestibular e, depois, para a lingual. Podem ser realizados movimentos de
+rotação, mas estes devem ser mínimos e feitos de maneira criteriosa em dentes
+multirradiculares. O cirurgião-dentista deve ter muita atenção à direção de menor
+resistência e remover o dente nesse sentido. Se as raízes do molar decíduo
+“abraçarem” a coroa do pré-molar permanente, o cirurgião-dentista deve considerar
+seccionar o dente. Raramente, as raízes seguram a coroa dos pré-molares
+permanentes de modo firme o bastante para fazer com que sejam amolecidos ou
+extraídos. Uma vez que um dente decíduo com reabsorção radicular substancial
+tenha sido extraído, o local de extração deve ser cuidadosamente inspecionado para
+ajudar a garantir que nenhum pequeno pedaço de dente permaneça.
+
+Depois de removido o dente, o alvéolo requer cuidado apropriado. O alvéolo deve ser
+desbridado apenas se necessário. Se uma lesão periapical for visível na radiografia
+pré-operatória e não houver granuloma preso ao dente quando este for removido, a
+região periapical deve ser cuidadosamente curetada com uma cureta periapical para
+remover o granuloma ou o cisto. Se algum resíduo for evidente, como cálculo ou
+amálgama, ou algum fragmento de dente permanecer no alvéolo, ele deve ser
+
+
+
+                        Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+delicadamente removido com a cureta ou a ponta do aspirador (Figura 8.69).
+Entretanto, se não houver nem lesão periapical nem debris, o alvéolo não deve ser
+curetado. Os remanescentes do ligamento periodontal e o das paredes ósseas
+sangrantes estão nas melhores condições para gerar cura rápida. A curetagem
+vigorosa desse alvéolo produz apenas lesão adicional e pode atrasar a cicatrização.
+As corticais ósseas bucolinguais e linguais expandidas devem ser comprimidas de
+volta à configuração original. Deve-se aplicar pressão digital às corticais
+vestibulolinguais para comprimir as corticais delicadamente, mas firmemente em sua
+posição original. Isso ajuda a evitar espículas ósseas que podem ter sido causadas por
+expansão excessiva da lâmina vestibular, especialmente depois da extração do
+primeiro molar. Convém tomar cuidado para não reduzir muito o alvéolo, se a
+colocação de implantes for planejada ou possível no futuro. Em alguns casos,
+nenhuma redução deve ser feita, se os implantes forem planejados. Se dentes forem
+removidos devido a doença periodontal, pode haver acúmulo excessivo de tecido de
+granulação ao redor da orla gengival. Se esse for o caso, convém atenção especial
+para remover tal tecido de granulação com cureta, tesoura de tecido ou pinça
+hemostática. As arteríolas do tecido de granulação têm pequena ou nenhuma
+capacidade de retração ou constrição, o que leva a sangramento contínuo, se for
+deixado excesso de tecido de granulação no local.
+  Figura 8.68 A. O fórceps nº 23 é cuidadosamente posicionado para se encaixar na área de bifurcação
+  do molar inferior. B. Os cabos do fórceps são apertados com força, o que faz com que as pontas do
+  fórceps sejam forçadas na bifurcação e tracionem o dente. C. Realizam-se grandes forças bucais
+  para expandir o alvéolo.
+
+D. Aplicam-se forças linguais intensas para luxar o dente ainda mais. E. O dente é
+removido na direção vestíbulooclusal com forças vestibulares e de tração.
+  Figura 8.69 Fragmento de amálgama deixado no alvéolo dentário após a extração porque o cirurgião
+  falhou ao inspecionar e desbridar o campo cirúrgico. Por fim, o osso deve ser palpado através da
+  mucosa que o cobre para procurar qualquer projeção óssea afiada. Se encontrar alguma, a mucosa
+  deve ser divulsionada e as pontas afiadas devem ser alisadas criteriosamente com uma lima para
+  osso ou aparadas com pinça goiva. É possível alcançar o controle inicial da hemorragia usando uma
+  gaze úmida de 2 × 2 polegadas [5 × 5 cm] colocada sobre o alvéolo da extração. A gaze deve ser
+  posicionada de modo que o paciente consiga ocluir os dentes. Ela se encaixa no espaço previamente
+  ocupado pela coroa do dente. A pressão da oclusão do dente junto com a pressão feita pela gaze é
+  transmitida para o alvéolo, o que resulta em hemostasia. Se a gaze for simplesmente colocada na
+  região oclusal, a pressão aplicada ao alvéolo sangrante é insuficiente para se conseguir uma
+  hemostasia adequada (Figura
+
+8.70). Uma gaze maior (4 × 4 polegadas [10 × 10 cm]) pode ser necessária se vários
+dentes forem extraídos e se o arco oposto for edêntulo. A extração de múltiplos
+dentes de uma vez é um procedimento mais complexo e discutido no Capítulo 9.
+  Figura 8.70 A. Após a extração de um único dente, existe um pequeno espaço em que a coroa do
+  dente estava localizada. B. Uma gaze (2 × 2 polegadas [5 × 5 cm]) é dobrada ao meio e colocada no
+  espaço. Quando o paciente morde a gaze, transmite-se a pressão diretamente à gengiva e ao
+  alvéolo. C. Se um pedaço grande de gaze for usado, a pressão será nos dentes, e não na gengiva ou
+  no alvéolo.
+
+
+
+
+                       Hupp — Cirurgia Oral e Maxilofacial Contemporânea, 7ª ed.
+

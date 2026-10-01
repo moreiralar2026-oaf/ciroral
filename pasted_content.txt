@@ -1,0 +1,984 @@
+Crie uma **plataforma educacional completa, interativa e responsiva em HTML5, CSS3 e JavaScript puro**, funcionando localmente no navegador, sem necessidade de backend, destinada a alunos do **6º ano de Odontologia**, utilizando EXCLUSIVAMENTE como fonte de conteúdo o material fornecido pelo usuário.
+
+O objetivo não é simplesmente transformar o PDF em uma página de resumo. O objetivo é criar um **sistema de aprendizagem ativa**, capaz de transformar o conteúdo em um ambiente de estudo completo, organizado, visual, interativo e orientado à retenção de longo prazo.
+
+# 1. PRINCÍPIO CENTRAL
+
+Transforme o conteúdo fornecido em uma plataforma que combine:
+
+* aprendizagem ativa;
+* recuperação ativa (active recall);
+* repetição espaçada;
+* elaboração;
+* associação visual;
+* aprendizagem por problemas;
+* testes frequentes;
+* feedback imediato;
+* metacognição;
+* revisão baseada no desempenho;
+* gamificação moderada;
+* mapas conceituais;
+* comparação entre conceitos;
+* raciocínio clínico;
+* reconhecimento de padrões;
+* exercícios progressivos.
+
+NÃO faça apenas resumos.
+
+Cada conceito importante do material deve ser convertido, quando apropriado, em diferentes formatos de aprendizagem:
+
+1. explicação curta;
+2. explicação aprofundada;
+3. flashcard;
+4. pergunta de recuperação ativa;
+5. questão de múltipla escolha;
+6. questão de verdadeiro/falso;
+7. questão de associação;
+8. questão de ordenação;
+9. caso clínico;
+10. comparação entre conceitos;
+11. erro comum;
+12. mnemônico;
+13. mapa mental;
+14. tabela comparativa;
+15. aplicação prática;
+16. revisão rápida.
+
+# 2. FONTE E FIDELIDADE
+
+O conteúdo fornecido é a fonte primária.
+
+Não invente informações atribuídas ao livro.
+
+Quando uma informação não estiver suficientemente clara no material, sinalize:
+
+"Informação não suficientemente especificada no material fornecido."
+
+Separe visualmente:
+
+* CONTEÚDO DO MATERIAL
+* EXPLICAÇÃO DIDÁTICA
+* INFERÊNCIA/INTERPRETAÇÃO
+* COMPLEMENTO OPCIONAL
+
+Não apresente uma inferência como se fosse uma afirmação literal do livro.
+
+Preserve termos técnicos importantes.
+
+Não simplifique conceitos a ponto de alterar seu significado.
+
+# 3. ESTRUTURA GERAL DO SITE
+
+Crie uma interface moderna de plataforma educacional.
+
+Estrutura:
+
+SIDEBAR:
+
+* Início
+* Conteúdo
+* Mapa de conceitos
+* Flashcards
+* Quiz
+* Casos clínicos
+* Instrumentais
+* Mnemônicos
+* Revisão rápida
+* Erros comuns
+* Simulado
+* Meu progresso
+
+TOPO:
+
+* nome do módulo atual;
+* barra de progresso;
+* busca global;
+* botão de modo escuro;
+* indicador de desempenho.
+
+PÁGINA INICIAL:
+
+Mostrar cards:
+
+"Continuar estudando"
+
+"Revisão de hoje"
+
+"Flashcards pendentes"
+
+"Questões para fazer"
+
+"Seu desempenho"
+
+"Conceitos que você mais errou"
+
+"Tempo de estudo"
+
+# 4. ORGANIZAÇÃO DO CONTEÚDO
+
+Estruture automaticamente o conteúdo em módulos e submódulos.
+
+Para o material fornecido, identifique e organize os grandes eixos temáticos, incluindo, quando presentes:
+
+* princípios de cirurgia oral;
+* cicatrização;
+* edema;
+* hemostasia;
+* infecção;
+* manejo dos tecidos;
+* espaço morto;
+* instrumentais cirúrgicos;
+* curetas;
+* elevadores;
+* periótomos;
+* fórceps;
+* suturas;
+* agulhas;
+* bandejas cirúrgicas;
+* avaliação pré-operatória;
+* exames de imagem;
+* radiografias;
+* posicionamento do paciente;
+* princípios mecânicos da exodontia;
+* alavanca;
+* cunha;
+* roda e eixo;
+* luxação;
+* remoção dentária;
+* fatores que dificultam a extração;
+* prevenção de complicações;
+* pós-operatório.
+
+Não assuma que esses são os únicos tópicos: extraia também os demais conceitos relevantes presentes no material.
+
+# 5. PÁGINA DE CADA CONCEITO
+
+Cada conceito deve possuir uma página ou modal estruturado assim:
+
+## O que é?
+
+Definição objetiva.
+
+## Em uma frase
+
+Resumo extremamente curto para recuperação rápida.
+
+## Entenda
+
+Explicação didática.
+
+## Por que isso importa?
+
+Aplicação clínica ou relação com outros conceitos, quando sustentada pelo material.
+
+## Como lembrar?
+
+Criar um mnemônico útil.
+
+## Cuidado com a confusão
+
+Mostrar conceitos semelhantes que podem ser confundidos.
+
+## Exemplo
+
+Aplicação baseada no conteúdo.
+
+## Teste rápido
+
+Uma pergunta de recuperação ativa.
+
+## Flashcard
+
+Gerar pelo menos um flashcard relacionado.
+
+## Questão clínica
+
+Gerar uma situação-problema relacionada ao conceito.
+
+# 6. MNEMÔNICOS
+
+Crie mnemônicos de alta qualidade.
+
+Não crie mnemônicos artificiais apenas para aumentar a quantidade.
+
+Um bom mnemônico deve:
+
+* ser curto;
+* ser memorável;
+* ter associação lógica;
+* facilitar recuperação;
+* preservar precisão técnica.
+
+Quando houver listas, sequências ou classificações, procurar sistematicamente oportunidades para criar mnemônicos.
+
+Exibir:
+
+"🧠 Mnemônico"
+
+"Como lembrar"
+
+"Por que funciona"
+
+# 7. FLASHCARDS
+
+Criar um sistema de flashcards interativo.
+
+Cada flashcard deve possuir:
+
+FRENTE:
+Pergunta/conceito.
+
+VERSO:
+Resposta objetiva + explicação curta.
+
+Botões:
+
+"Errei"
+
+"Quase"
+
+"Acertei"
+
+"Fácil"
+
+Utilizar essas respostas para determinar a frequência de revisão.
+
+Criar categorias:
+
+* definição;
+* instrumento → função;
+* função → instrumento;
+* comparação;
+* classificação;
+* mecanismo;
+* aplicação clínica;
+* contraindicação/cuidado;
+* reconhecimento visual.
+
+Permitir:
+
+* embaralhar;
+* filtrar por tema;
+* revisar somente erros;
+* revisar somente difíceis;
+* revisar favoritos.
+
+# 8. REPETIÇÃO ESPAÇADA
+
+Implementar uma versão simples de repetição espaçada em JavaScript.
+
+Exemplo de lógica:
+
+Errei:
+revisar novamente em breve.
+
+Quase:
+intervalo curto.
+
+Acertei:
+intervalo progressivamente maior.
+
+Fácil:
+intervalo maior.
+
+Armazenar o progresso no localStorage.
+
+Criar seção:
+
+"Revisão de hoje"
+
+com os cards que precisam ser revistos.
+
+# 9. QUIZ
+
+Criar um banco de questões.
+
+Tipos:
+
+### Múltipla escolha
+
+4 alternativas.
+
+### Verdadeiro ou falso
+
+Afirmações precisas.
+
+### Associação
+
+Exemplo:
+
+Instrumental ↔ função.
+
+### Ordenação
+
+Colocar etapas ou conceitos em ordem lógica.
+
+### "Qual não pertence?"
+
+Testar classificação.
+
+### "O que aconteceria se?"
+
+Testar raciocínio.
+
+### Caso clínico
+
+Apresentar uma situação e perguntar qual conceito do material se aplica.
+
+Cada questão deve apresentar feedback após a resposta.
+
+O feedback NÃO deve dizer somente:
+
+"Correto."
+
+Deve explicar:
+
+* por que a resposta está correta;
+* por que as alternativas erradas estão erradas;
+* qual conceito deve ser recuperado.
+
+# 10. BANCO DE ERROS
+
+Criar uma área chamada:
+
+"Meus erros"
+
+Registrar:
+
+* questão;
+* resposta escolhida;
+* resposta correta;
+* conceito envolvido;
+* data;
+* quantidade de erros;
+* última tentativa.
+
+Criar botão:
+
+"Revisar meus erros"
+
+Isso deve gerar uma sessão automática exclusivamente com os conceitos que apresentam maior taxa de erro.
+
+# 11. CASOS CLÍNICOS
+
+Criar casos progressivos.
+
+Estrutura:
+
+CASO
+
+Paciente/situação.
+
+DADOS DISPONÍVEIS.
+
+PERGUNTA.
+
+ALTERNATIVAS.
+
+RESPOSTA.
+
+EXPLICAÇÃO.
+
+"Qual princípio do conteúdo foi aplicado?"
+
+"Qual erro seria mais provável?"
+
+Criar casos em três níveis:
+
+Nível 1 — reconhecimento.
+
+Nível 2 — aplicação.
+
+Nível 3 — integração de conceitos.
+
+Não inventar informações clínicas específicas que não possam ser sustentadas pelo material quando a questão depender diretamente do conteúdo.
+
+# 12. INSTRUMENTAIS
+
+Criar uma seção visual especialmente dedicada aos instrumentais.
+
+Para cada instrumental:
+
+* nome;
+* imagem/representação visual quando disponível no material;
+* função;
+* características;
+* quando utilizar;
+* com qual instrumento pode ser confundido;
+* diferença entre instrumentos semelhantes;
+* pergunta de reconhecimento;
+* flashcard.
+
+Criar um modo:
+
+"Que instrumento é esse?"
+
+Mostrar a representação e solicitar a identificação.
+
+Depois:
+
+"Para que ele serve?"
+
+# 13. COMPARAÇÕES
+
+Sempre que existirem conceitos semelhantes, criar tabelas comparativas.
+
+Exemplo de estrutura:
+
+| Conceito | Característica | Função | Diferença principal | Erro comum |
+
+Criar comparações como:
+
+* fórceps vs elevadores;
+* cureta periapical vs outros instrumentos;
+* diferentes tipos de fórceps;
+* sutura reabsorvível vs não reabsorvível;
+* monofilamentar vs multifilamentar;
+* diferentes princípios mecânicos;
+* diferentes exames de imagem;
+* bandeja básica vs cirúrgica;
+* situações clínicas distintas.
+
+# 14. MAPA CONCEITUAL
+
+Criar uma visualização gráfica dos relacionamentos.
+
+Exemplo:
+
+EXTRAÇÃO DENTÁRIA
+↓
+Avaliação pré-operatória
+↓
+Imagem
+↓
+Planejamento
+↓
+Instrumental
+↓
+Princípios mecânicos
+↓
+Luxação
+↓
+Remoção
+↓
+Hemostasia
+↓
+Cicatrização
+↓
+Pós-operatório
+
+Permitir clicar nos conceitos.
+
+Ao clicar, abrir o conteúdo correspondente.
+
+Pode utilizar SVG e JavaScript puro.
+
+# 15. APRENDIZAGEM POR CAMADAS
+
+Não apresentar tudo de uma vez.
+
+Cada assunto deve ter três níveis:
+
+NÍVEL 1 — ESSENCIAL
+
+"O que preciso saber para uma prova?"
+
+NÍVEL 2 — COMPREENSÃO
+
+"Como e por que isso funciona?"
+
+NÍVEL 3 — APROFUNDAMENTO
+
+"Como integrar esse conhecimento com outros conceitos?"
+
+Isso reduz carga cognitiva e permite estudo progressivo.
+
+# 16. MÉTODO "ENSINE PARA UM ALUNO"
+
+Criar uma ferramenta chamada:
+
+"Explique com suas palavras"
+
+Mostrar um conceito e pedir ao aluno que explique.
+
+Depois mostrar:
+
+"Elementos que sua resposta deveria conter"
+
+Permitir autoavaliação.
+
+Categorias:
+
+* definição;
+* mecanismo;
+* finalidade;
+* aplicação;
+* diferença entre conceitos.
+
+# 17. MÉTODO DE FEYNMAN
+
+Para conceitos importantes:
+
+1. Explique com suas palavras.
+2. Identifique o que não conseguiu explicar.
+3. Revise.
+4. Tente novamente.
+5. Compare com a explicação técnica.
+
+Criar uma interface específica para isso.
+
+# 18. RECONHECIMENTO DE CONFUSÕES
+
+Criar automaticamente blocos:
+
+"Não confunda"
+
+Exemplo:
+
+NÃO CONFUNDA:
+Instrumento A × Instrumento B
+
+Mostrar:
+
+A → característica X.
+
+B → característica Y.
+
+"Como diferenciar em uma prova?"
+
+# 19. REVISÃO EM 5 MINUTOS
+
+Criar uma página chamada:
+
+"Revisão expressa"
+
+Mostrar somente:
+
+* conceitos fundamentais;
+* mnemônicos;
+* diferenças críticas;
+* erros comuns;
+* fórmulas/princípios;
+* imagens importantes;
+* 5 questões rápidas.
+
+Objetivo: revisar um módulo em aproximadamente 5 minutos.
+
+# 20. SIMULADO
+
+Criar modo:
+
+"Simulado"
+
+Permitir escolher:
+
+10 questões
+20 questões
+30 questões
+50 questões
+
+Mostrar:
+
+* número de questões;
+* tempo;
+* progresso;
+* resultado final;
+* percentual de acertos.
+
+No final:
+
+"Seu desempenho por tema"
+
+Exemplo:
+
+Instrumentais — 82%
+
+Radiologia — 61%
+
+Princípios mecânicos — 74%
+
+Cicatrização — 90%
+
+Depois gerar:
+
+"Recomendações de estudo"
+
+baseadas nos erros.
+
+Não inventar uma avaliação psicológica ou diagnóstico do aluno. Apenas utilizar dados objetivos de desempenho.
+
+# 21. GAMIFICAÇÃO
+
+Usar gamificação moderada.
+
+Elementos:
+
+* XP;
+* sequência de dias;
+* progresso;
+* níveis;
+* medalhas;
+* desafios.
+
+Exemplos:
+
+"10 flashcards concluídos"
+
+"5 questões consecutivas"
+
+"Revisou seus erros"
+
+"Dominou um módulo"
+
+Evitar excesso de animações.
+
+A gamificação deve servir ao aprendizado, não competir com ele.
+
+# 22. PESQUISA
+
+Implementar busca instantânea.
+
+O usuário deve poder pesquisar:
+
+"fórceps"
+
+"hemostasia"
+
+"cureta"
+
+"alavanca"
+
+etc.
+
+A busca deve retornar:
+
+* conceitos;
+* flashcards;
+* questões;
+* casos;
+* mnemônicos.
+
+# 23. FAVORITOS
+
+Permitir marcar:
+
+⭐ Favorito
+
+Criar página:
+
+"Meus favoritos"
+
+# 24. MODO PROVA
+
+Criar um modo específico para preparação de prova.
+
+Interface minimalista.
+
+Sem explicações até responder.
+
+Mostrar somente:
+
+Pergunta → resposta → próxima.
+
+Ao final:
+
+* nota;
+* erros;
+* conceitos frágeis;
+* revisão recomendada.
+
+# 25. MODO REVISÃO
+
+Criar botão:
+
+"Quero revisar"
+
+O sistema selecionará automaticamente conteúdos com base em:
+
+* erros anteriores;
+* conceitos pouco revisados;
+* dificuldade;
+* tempo desde a última revisão.
+
+# 26. ANÁLISE DO APRENDIZADO
+
+Criar dashboard:
+
+* questões respondidas;
+* percentual de acerto;
+* flashcards revisados;
+* conceitos dominados;
+* conceitos frágeis;
+* sequência de estudo;
+* tempo de estudo;
+* taxa de retenção aproximada.
+
+Não apresentar métricas estatísticas sofisticadas como se fossem cientificamente precisas quando forem apenas estimativas do sistema.
+
+# 27. DESIGN
+
+Visual moderno de plataforma educacional.
+
+Características:
+
+* responsivo;
+* desktop-first, mas adaptado para celular;
+* tipografia extremamente legível;
+* cards;
+* hierarquia visual;
+* ícones;
+* microinterações;
+* animações discretas;
+* feedback visual;
+* acessibilidade;
+* contraste adequado.
+
+Não utilizar aparência infantil.
+
+A estética deve ser de uma plataforma universitária moderna.
+
+# 28. ACESSIBILIDADE
+
+Implementar:
+
+* navegação por teclado;
+* aria-labels;
+* foco visível;
+* contraste adequado;
+* tamanho de fonte ajustável;
+* suporte a leitores de tela;
+* não depender exclusivamente de cor para indicar acerto/erro.
+
+# 29. ARQUITETURA TÉCNICA
+
+Gerar um projeto que funcione localmente.
+
+Preferencialmente:
+
+index.html
+style.css
+script.js
+
+Se for mais conveniente, também pode gerar tudo em um único:
+
+index.html
+
+O site deve funcionar abrindo o arquivo diretamente no navegador.
+
+Não exigir:
+
+* Node.js;
+* banco de dados;
+* servidor;
+* API;
+* login;
+* bibliotecas externas obrigatórias.
+
+Utilizar JavaScript puro.
+
+Usar localStorage para:
+
+* progresso;
+* favoritos;
+* flashcards;
+* desempenho;
+* erros;
+* histórico.
+
+# 30. DADOS
+
+Estruturar o conteúdo em objetos JavaScript.
+
+Exemplo:
+
+const topics = [
+{
+id: "...",
+title: "...",
+category: "...",
+summary: "...",
+explanation: "...",
+mnemonic: "...",
+commonMistakes: [],
+flashcards: [],
+questions: [],
+cases: []
+}
+];
+
+Separar claramente:
+
+DADOS DO CONTEÚDO
+
+LÓGICA DA APLICAÇÃO
+
+INTERFACE
+
+# 31. QUALIDADE DAS QUESTÕES
+
+As questões devem testar conhecimento real.
+
+Evite:
+
+* perguntas óbvias;
+* alternativas absurdas;
+* pistas gramaticais;
+* respostas muito maiores que as demais;
+* repetição da mesma questão;
+* decorar frases isoladas.
+
+Priorize:
+
+* discriminação entre conceitos semelhantes;
+* aplicação;
+* reconhecimento;
+* relações causa → efeito;
+* associação instrumento → função;
+* princípios → situação clínica;
+* identificação de erros.
+
+# 32. HIERARQUIA DE MEMORIZAÇÃO
+
+Para cada tópico importante, tentar construir esta sequência:
+
+CONTATO
+↓
+ENTENDIMENTO
+↓
+RECUPERAÇÃO
+↓
+APLICAÇÃO
+↓
+ERRO
+↓
+FEEDBACK
+↓
+REVISÃO
+↓
+NOVA RECUPERAÇÃO
+
+O sistema deve fazer o aluno recuperar a informação, não apenas relê-la.
+
+# 33. RECURSOS ADICIONAIS
+
+Além de quiz e flashcards, implemente:
+
+* mapa mental;
+* mapa conceitual;
+* tabela comparativa;
+* completar lacunas;
+* associação de pares;
+* ordenar etapas;
+* identificar o erro;
+* "verdadeiro ou falso com justificativa";
+* casos clínicos;
+* revisão expressa;
+* modo prova;
+* modo revisão;
+* banco de erros;
+* favoritos;
+* busca;
+* progresso;
+* mnemônicos;
+* explicação em camadas;
+* técnica de Feynman;
+* recuperação ativa;
+* repetição espaçada.
+
+# 34. PRINCÍPIO PEDAGÓGICO FUNDAMENTAL
+
+Sempre que possível, prefira:
+
+"Pergunte primeiro → revele depois"
+
+em vez de:
+
+"Mostre primeiro → pergunte depois".
+
+O sistema deve estimular esforço de recuperação.
+
+# 35. PRIMEIRA EXPERIÊNCIA DO USUÁRIO
+
+Ao abrir o site, apresentar:
+
+"Como você quer estudar?"
+
+[Aprender um assunto]
+
+[Revisar]
+
+[Responder questões]
+
+[Estudar flashcards]
+
+[Fazer um simulado]
+
+[Revisar meus erros]
+
+Depois:
+
+"Qual módulo você quer estudar?"
+
+# 36. RESULTADO FINAL
+
+Entregar um site funcional, não apenas um mockup.
+
+Todas as principais interações devem funcionar.
+
+Os botões devem possuir comportamento real.
+
+Quiz deve calcular resultados.
+
+Flashcards devem registrar desempenho.
+
+Favoritos devem funcionar.
+
+Progresso deve ser persistido.
+
+Busca deve funcionar.
+
+Modo escuro deve funcionar.
+
+Dashboard deve refletir os dados reais armazenados no navegador.
+
+O sistema deve começar já populado com o conteúdo extraído do material fornecido.
+
+# 37. IMPORTANTE SOBRE O CONTEÚDO
+
+Antes de gerar as atividades:
+
+1. Analise integralmente o material.
+2. Extraia os conceitos.
+3. Identifique relações entre conceitos.
+4. Identifique listas.
+5. Identifique classificações.
+6. Identifique diferenças entre conceitos.
+7. Identifique informações frequentemente confundíveis.
+8. Identifique princípios mecânicos.
+9. Identifique aplicações clínicas.
+10. Identifique possíveis pontos de prova.
+11. Converta esses elementos nas diferentes modalidades de aprendizagem.
+
+Não simplesmente transforme cada parágrafo em um flashcard.
+
+Faça uma **modelagem pedagógica do conhecimento**.
+
+# 38. ENTREGA
+
+Forneça:
+
+1. o código completo;
+2. instruções mínimas para executar;
+3. estrutura dos arquivos;
+4. explicação breve da arquitetura;
+5. lista dos recursos implementados.
+
+Se o código ficar muito grande, divida em arquivos coerentes, mas entregue todos os arquivos necessários.
+
+Prioridade:
+
+1. precisão do conteúdo;
+2. qualidade pedagógica;
+3. funcionamento;
+4. usabilidade;
+5. estética.
